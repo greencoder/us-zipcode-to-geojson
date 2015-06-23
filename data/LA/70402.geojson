@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.4804, 
+                    30.514
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -90.47190499999999, 
+                            30.519197
+                        ], 
+                        [
+                            -90.468507, 
+                            30.519194
+                        ], 
+                        [
+                            -90.468355, 
+                            30.515404999999998
+                        ], 
+                        [
+                            -90.46835, 
+                            30.513194
+                        ], 
+                        [
+                            -90.471937, 
+                            30.513285
+                        ], 
+                        [
+                            -90.47190499999999, 
+                            30.519197
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Hammond", 
+                "postal-code": "70402", 
+                "state": "LA", 
+                "county-code": "105"
+            }
+        }
+    ]
+}

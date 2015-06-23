@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.3952, 
+                    41.7199
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -95.397503, 
+                            41.719659
+                        ], 
+                        [
+                            -95.39386499999999, 
+                            41.719623
+                        ], 
+                        [
+                            -95.393732, 
+                            41.722057
+                        ], 
+                        [
+                            -95.39267, 
+                            41.72201
+                        ], 
+                        [
+                            -95.392578, 
+                            41.71805
+                        ], 
+                        [
+                            -95.39748399999999, 
+                            41.718086
+                        ], 
+                        [
+                            -95.397503, 
+                            41.719659
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Westphalia", 
+                "postal-code": "51578", 
+                "state": "IA", 
+                "county-code": "165"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -157.7524, 
+                    21.3913
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -157.764173, 
+                            21.448878
+                        ], 
+                        [
+                            -157.761776, 
+                            21.450100000000003
+                        ], 
+                        [
+                            -157.760645, 
+                            21.447644
+                        ], 
+                        [
+                            -157.760794, 
+                            21.447549
+                        ], 
+                        [
+                            -157.761186, 
+                            21.446837
+                        ], 
+                        [
+                            -157.7644, 
+                            21.448359
+                        ], 
+                        [
+                            -157.764173, 
+                            21.448878
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "M C B H Kaneohe Bay", 
+                "postal-code": "96863", 
+                "state": "HI", 
+                "county-code": "003"
+            }
+        }
+    ]
+}

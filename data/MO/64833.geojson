@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -94.1452, 
+                    37.1948
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -94.132071, 
+                            37.195467
+                        ], 
+                        [
+                            -94.13183099999999, 
+                            37.199588
+                        ], 
+                        [
+                            -94.127422, 
+                            37.199481999999996
+                        ], 
+                        [
+                            -94.127743, 
+                            37.188103
+                        ], 
+                        [
+                            -94.13227099999999, 
+                            37.18814
+                        ], 
+                        [
+                            -94.132071, 
+                            37.195467
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Avilla", 
+                "postal-code": "64833", 
+                "state": "MO", 
+                "county-code": "097"
+            }
+        }
+    ]
+}

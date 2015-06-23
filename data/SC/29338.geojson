@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.0571, 
+                    34.9994
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -82.004097, 
+                            35.136351999999995
+                        ], 
+                        [
+                            -81.998538, 
+                            35.137957
+                        ], 
+                        [
+                            -81.998448, 
+                            35.137876999999996
+                        ], 
+                        [
+                            -81.998072, 
+                            35.133956999999995
+                        ], 
+                        [
+                            -82.00670099999999, 
+                            35.134116
+                        ], 
+                        [
+                            -82.004097, 
+                            35.136351999999995
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Fingerville", 
+                "postal-code": "29338", 
+                "state": "SC", 
+                "county-code": "083"
+            }
+        }
+    ]
+}

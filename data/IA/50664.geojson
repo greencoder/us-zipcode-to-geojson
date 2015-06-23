@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -92.0762, 
+                    42.7012
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -92.078856, 
+                            42.702238
+                        ], 
+                        [
+                            -92.07850599999999, 
+                            42.702224
+                        ], 
+                        [
+                            -92.073563, 
+                            42.702258
+                        ], 
+                        [
+                            -92.073543, 
+                            42.700258999999996
+                        ], 
+                        [
+                            -92.07880999999999, 
+                            42.700247
+                        ], 
+                        [
+                            -92.078856, 
+                            42.702238
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Oran", 
+                "postal-code": "50664", 
+                "state": "IA", 
+                "county-code": "065"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.2058, 
+                    41.7771
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -93.207239, 
+                            41.777679
+                        ], 
+                        [
+                            -93.204529, 
+                            41.777679
+                        ], 
+                        [
+                            -93.20437, 
+                            41.777586
+                        ], 
+                        [
+                            -93.20437299999999, 
+                            41.776604
+                        ], 
+                        [
+                            -93.20725399999999, 
+                            41.776610999999995
+                        ], 
+                        [
+                            -93.207239, 
+                            41.777679
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Ira", 
+                "postal-code": "50127", 
+                "state": "IA", 
+                "county-code": "099"
+            }
+        }
+    ]
+}

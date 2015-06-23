@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.168, 
+                    40.5203
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -84.089294, 
+                            40.556324
+                        ], 
+                        [
+                            -84.07426799999999, 
+                            40.556671
+                        ], 
+                        [
+                            -84.07829, 
+                            40.555972
+                        ], 
+                        [
+                            -84.078919, 
+                            40.549757
+                        ], 
+                        [
+                            -84.084029, 
+                            40.552897
+                        ], 
+                        [
+                            -84.088483, 
+                            40.552895
+                        ], 
+                        [
+                            -84.089294, 
+                            40.556324
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Saint Johns", 
+                "postal-code": "45884", 
+                "state": "OH", 
+                "county-code": "011"
+            }
+        }
+    ]
+}

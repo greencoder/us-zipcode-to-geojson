@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.5482, 
+                    43.621
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -93.548306, 
+                            43.615248
+                        ], 
+                        [
+                            -93.532293, 
+                            43.615381
+                        ], 
+                        [
+                            -93.531954, 
+                            43.617107
+                        ], 
+                        [
+                            -93.528392, 
+                            43.617114
+                        ], 
+                        [
+                            -93.528418, 
+                            43.600629999999995
+                        ], 
+                        [
+                            -93.548324, 
+                            43.600662
+                        ], 
+                        [
+                            -93.548306, 
+                            43.615248
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Conger", 
+                "postal-code": "56020", 
+                "state": "MN", 
+                "county-code": "047"
+            }
+        }
+    ]
+}

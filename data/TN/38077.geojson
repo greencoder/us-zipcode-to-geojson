@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.4744, 
+                    36.3281
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -89.47573899999999, 
+                            36.32975
+                        ], 
+                        [
+                            -89.473143, 
+                            36.329735
+                        ], 
+                        [
+                            -89.473343, 
+                            36.326234
+                        ], 
+                        [
+                            -89.47550799999999, 
+                            36.326319
+                        ], 
+                        [
+                            -89.475511, 
+                            36.32729
+                        ], 
+                        [
+                            -89.47573899999999, 
+                            36.32975
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Wynnburg", 
+                "postal-code": "38077", 
+                "state": "TN", 
+                "county-code": "095"
+            }
+        }
+    ]
+}

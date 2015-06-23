@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.2533, 
+                    30.488
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -88.174826, 
+                            30.532328999999997
+                        ], 
+                        [
+                            -88.17401799999999, 
+                            30.53222
+                        ], 
+                        [
+                            -88.17393, 
+                            30.531284
+                        ], 
+                        [
+                            -88.174351, 
+                            30.531264
+                        ], 
+                        [
+                            -88.17475, 
+                            30.531285999999998
+                        ], 
+                        [
+                            -88.174826, 
+                            30.532328999999997
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Theodore", 
+                "postal-code": "36590", 
+                "state": "AL", 
+                "county-code": "097"
+            }
+        }
+    ]
+}

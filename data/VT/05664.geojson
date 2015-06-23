@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.6466, 
+                    44.1835
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -72.65432899999999, 
+                            44.166902
+                        ], 
+                        [
+                            -72.652746, 
+                            44.16867
+                        ], 
+                        [
+                            -72.652278, 
+                            44.168472
+                        ], 
+                        [
+                            -72.651629, 
+                            44.167767
+                        ], 
+                        [
+                            -72.65308, 
+                            44.165762
+                        ], 
+                        [
+                            -72.654038, 
+                            44.166016
+                        ], 
+                        [
+                            -72.65493099999999, 
+                            44.166259
+                        ], 
+                        [
+                            -72.65432899999999, 
+                            44.166902
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Northfield Falls", 
+                "postal-code": "05664", 
+                "state": "VT", 
+                "county-code": "023"
+            }
+        }
+    ]
+}

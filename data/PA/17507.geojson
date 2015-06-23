@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.016, 
+                    40.1966
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -76.017256, 
+                            40.199497
+                        ], 
+                        [
+                            -76.015092, 
+                            40.1983
+                        ], 
+                        [
+                            -76.01478399999999, 
+                            40.197032
+                        ], 
+                        [
+                            -76.01577, 
+                            40.196835
+                        ], 
+                        [
+                            -76.016227, 
+                            40.19678
+                        ], 
+                        [
+                            -76.01747999999999, 
+                            40.196771999999996
+                        ], 
+                        [
+                            -76.017256, 
+                            40.199497
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Bowmansville", 
+                "postal-code": "17507", 
+                "state": "PA", 
+                "county-code": "071"
+            }
+        }
+    ]
+}

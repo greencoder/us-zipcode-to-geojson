@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.6332, 
+                    41.078
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -89.638516, 
+                            41.090395
+                        ], 
+                        [
+                            -89.630476, 
+                            41.090396999999996
+                        ], 
+                        [
+                            -89.63041, 
+                            41.086814
+                        ], 
+                        [
+                            -89.631568, 
+                            41.0758
+                        ], 
+                        [
+                            -89.632789, 
+                            41.061319999999995
+                        ], 
+                        [
+                            -89.638565, 
+                            41.06135
+                        ], 
+                        [
+                            -89.638516, 
+                            41.090395
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Camp Grove", 
+                "postal-code": "61424", 
+                "state": "IL", 
+                "county-code": "123"
+            }
+        }
+    ]
+}

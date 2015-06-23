@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.6276, 
+                    38.3884
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -75.584234, 
+                            38.345711
+                        ], 
+                        [
+                            -75.581634, 
+                            38.346931
+                        ], 
+                        [
+                            -75.579973, 
+                            38.344023
+                        ], 
+                        [
+                            -75.583109, 
+                            38.343067
+                        ], 
+                        [
+                            -75.58532, 
+                            38.344006
+                        ], 
+                        [
+                            -75.584234, 
+                            38.345711
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Salisbury", 
+                "postal-code": "21802", 
+                "state": "MD", 
+                "county-code": "045"
+            }
+        }
+    ]
+}

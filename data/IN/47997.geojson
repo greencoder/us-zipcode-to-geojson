@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.7236, 
+                    40.6677
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -86.728034, 
+                            40.669547
+                        ], 
+                        [
+                            -86.71914699999999, 
+                            40.669616
+                        ], 
+                        [
+                            -86.71914699999999, 
+                            40.665847
+                        ], 
+                        [
+                            -86.727284, 
+                            40.665766999999995
+                        ], 
+                        [
+                            -86.728034, 
+                            40.665742
+                        ], 
+                        [
+                            -86.728034, 
+                            40.669547
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Yeoman", 
+                "postal-code": "47997", 
+                "state": "IN", 
+                "county-code": "015"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.7015, 
+                    39.0333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -95.70615, 
+                            39.036975999999996
+                        ], 
+                        [
+                            -95.69686, 
+                            39.036932
+                        ], 
+                        [
+                            -95.69689799999999, 
+                            39.029702
+                        ], 
+                        [
+                            -95.70622499999999, 
+                            39.029708
+                        ], 
+                        [
+                            -95.70615, 
+                            39.036975999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Topeka", 
+                "postal-code": "66621", 
+                "state": "KS", 
+                "county-code": "177"
+            }
+        }
+    ]
+}

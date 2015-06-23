@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.2081, 
+                    32.2974
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -90.21112099999999, 
+                            32.300393
+                        ], 
+                        [
+                            -90.209482, 
+                            32.300391999999995
+                        ], 
+                        [
+                            -90.21010299999999, 
+                            32.297546
+                        ], 
+                        [
+                            -90.211197, 
+                            32.297761
+                        ], 
+                        [
+                            -90.21112099999999, 
+                            32.300393
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Jackson", 
+                "postal-code": "39217", 
+                "state": "MS", 
+                "county-code": "049"
+            }
+        }
+    ]
+}

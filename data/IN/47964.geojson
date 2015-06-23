@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.2986, 
+                    40.9521
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -87.30219, 
+                            40.955028999999996
+                        ], 
+                        [
+                            -87.295788, 
+                            40.955005
+                        ], 
+                        [
+                            -87.29505999999999, 
+                            40.955005
+                        ], 
+                        [
+                            -87.29508799999999, 
+                            40.949206
+                        ], 
+                        [
+                            -87.302239, 
+                            40.94925
+                        ], 
+                        [
+                            -87.30219, 
+                            40.955028999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Mount Ayr", 
+                "postal-code": "47964", 
+                "state": "IN", 
+                "county-code": "111"
+            }
+        }
+    ]
+}

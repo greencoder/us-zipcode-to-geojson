@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -68.1338, 
+                    46.7883
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -68.30019, 
+                            46.834506999999995
+                        ], 
+                        [
+                            -68.177298, 
+                            46.837038
+                        ], 
+                        [
+                            -68.059399, 
+                            46.83932
+                        ], 
+                        [
+                            -68.056528, 
+                            46.775676999999995
+                        ], 
+                        [
+                            -68.055301, 
+                            46.749722
+                        ], 
+                        [
+                            -68.30053099999999, 
+                            46.745238
+                        ], 
+                        [
+                            -68.30019, 
+                            46.834506999999995
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Washburn", 
+                "postal-code": "04786", 
+                "state": "ME", 
+                "county-code": "003"
+            }
+        }
+    ]
+}

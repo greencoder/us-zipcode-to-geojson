@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.4279, 
+                    42.5974
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -93.435227, 
+                            42.601048
+                        ], 
+                        [
+                            -93.420424, 
+                            42.601039
+                        ], 
+                        [
+                            -93.420643, 
+                            42.593799
+                        ], 
+                        [
+                            -93.420856, 
+                            42.59377
+                        ], 
+                        [
+                            -93.435154, 
+                            42.593810999999995
+                        ], 
+                        [
+                            -93.435227, 
+                            42.601048
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Popejoy", 
+                "postal-code": "50227", 
+                "state": "IA", 
+                "county-code": "069"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.4451, 
+                    39.4307
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -81.632539, 
+                            39.470031
+                        ], 
+                        [
+                            -81.631395, 
+                            39.471238
+                        ], 
+                        [
+                            -81.629468, 
+                            39.471131
+                        ], 
+                        [
+                            -81.630737, 
+                            39.469496
+                        ], 
+                        [
+                            -81.631671, 
+                            39.466968
+                        ], 
+                        [
+                            -81.633198, 
+                            39.467092
+                        ], 
+                        [
+                            -81.632539, 
+                            39.470031
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Watertown", 
+                "postal-code": "45787", 
+                "state": "OH", 
+                "county-code": "167"
+            }
+        }
+    ]
+}

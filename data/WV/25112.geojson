@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.5651, 
+                    38.2825
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -81.768697, 
+                            38.379614
+                        ], 
+                        [
+                            -81.766357, 
+                            38.382712
+                        ], 
+                        [
+                            -81.764887, 
+                            38.382014999999996
+                        ], 
+                        [
+                            -81.76784599999999, 
+                            38.377863
+                        ], 
+                        [
+                            -81.76942199999999, 
+                            38.378598
+                        ], 
+                        [
+                            -81.768697, 
+                            38.379614
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Institute", 
+                "postal-code": "25112", 
+                "state": "WV", 
+                "county-code": "039"
+            }
+        }
+    ]
+}

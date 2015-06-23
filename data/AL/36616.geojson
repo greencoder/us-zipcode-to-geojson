@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.1267, 
+                    30.671
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -88.081525, 
+                            30.725472999999997
+                        ], 
+                        [
+                            -88.081683, 
+                            30.724854999999998
+                        ], 
+                        [
+                            -88.080823, 
+                            30.724608
+                        ], 
+                        [
+                            -88.081266, 
+                            30.72318
+                        ], 
+                        [
+                            -88.08233299999999, 
+                            30.725641999999997
+                        ], 
+                        [
+                            -88.081525, 
+                            30.725472999999997
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Mobile", 
+                "postal-code": "36616", 
+                "state": "AL", 
+                "county-code": "097"
+            }
+        }
+    ]
+}

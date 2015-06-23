@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.9708, 
+                    34.006
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -81.026293, 
+                            33.997284
+                        ], 
+                        [
+                            -81.02488199999999, 
+                            33.997696
+                        ], 
+                        [
+                            -81.02379499999999, 
+                            33.995143999999996
+                        ], 
+                        [
+                            -81.02516, 
+                            33.994631
+                        ], 
+                        [
+                            -81.026293, 
+                            33.997284
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Columbia", 
+                "postal-code": "29225", 
+                "state": "SC", 
+                "county-code": "079"
+            }
+        }
+    ]
+}

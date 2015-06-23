@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.9732, 
+                    44.6087
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -74.982604, 
+                            44.609269999999995
+                        ], 
+                        [
+                            -74.978718, 
+                            44.609269999999995
+                        ], 
+                        [
+                            -74.978718, 
+                            44.604392
+                        ], 
+                        [
+                            -74.977463, 
+                            44.603421
+                        ], 
+                        [
+                            -74.979665, 
+                            44.60252
+                        ], 
+                        [
+                            -74.982604, 
+                            44.602543
+                        ], 
+                        [
+                            -74.982604, 
+                            44.609269999999995
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Hannawa Falls", 
+                "postal-code": "13647", 
+                "state": "NY", 
+                "county-code": "089"
+            }
+        }
+    ]
+}

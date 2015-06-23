@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.7153, 
+                    42.0016
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -86.362873, 
+                            41.966764999999995
+                        ], 
+                        [
+                            -86.357367, 
+                            41.966156999999995
+                        ], 
+                        [
+                            -86.353567, 
+                            41.962630999999995
+                        ], 
+                        [
+                            -86.35401499999999, 
+                            41.960754
+                        ], 
+                        [
+                            -86.360199, 
+                            41.960995
+                        ], 
+                        [
+                            -86.363627, 
+                            41.963488
+                        ], 
+                        [
+                            -86.362873, 
+                            41.966764999999995
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berrien Springs", 
+                "postal-code": "49104", 
+                "state": "MI", 
+                "county-code": "021"
+            }
+        }
+    ]
+}

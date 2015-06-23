@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.6218, 
+                    38.8922
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.617875, 
+                            38.886542999999996
+                        ], 
+                        [
+                            -83.61474799999999, 
+                            38.886382
+                        ], 
+                        [
+                            -83.61492199999999, 
+                            38.884575999999996
+                        ], 
+                        [
+                            -83.61618299999999, 
+                            38.884412999999995
+                        ], 
+                        [
+                            -83.617848, 
+                            38.884685
+                        ], 
+                        [
+                            -83.617875, 
+                            38.886542999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Cherry Fork", 
+                "postal-code": "45618", 
+                "state": "OH", 
+                "county-code": "001"
+            }
+        }
+    ]
+}

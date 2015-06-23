@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.7913, 
+                    43.6746
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -96.741231, 
+                            43.524893999999996
+                        ], 
+                        [
+                            -96.739995, 
+                            43.527263
+                        ], 
+                        [
+                            -96.736254, 
+                            43.527256
+                        ], 
+                        [
+                            -96.736234, 
+                            43.524108
+                        ], 
+                        [
+                            -96.736233, 
+                            43.522082
+                        ], 
+                        [
+                            -96.741232, 
+                            43.52211
+                        ], 
+                        [
+                            -96.741231, 
+                            43.524893999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Sioux Falls", 
+                "postal-code": "57197", 
+                "state": "SD", 
+                "county-code": "099"
+            }
+        }
+    ]
+}

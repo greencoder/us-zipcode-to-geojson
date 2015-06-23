@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -91.6998, 
+                    45.1429
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -91.686707, 
+                            45.170263
+                        ], 
+                        [
+                            -91.684608, 
+                            45.170026
+                        ], 
+                        [
+                            -91.685971, 
+                            45.167671
+                        ], 
+                        [
+                            -91.68668, 
+                            45.169278
+                        ], 
+                        [
+                            -91.686707, 
+                            45.170263
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Sand Creek", 
+                "postal-code": "54765", 
+                "state": "WI", 
+                "county-code": "033"
+            }
+        }
+    ]
+}

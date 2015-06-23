@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.6222, 
+                    39.9991
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.62719, 
+                            40.001231
+                        ], 
+                        [
+                            -83.624427, 
+                            40.003862999999996
+                        ], 
+                        [
+                            -83.617932, 
+                            40.002300999999996
+                        ], 
+                        [
+                            -83.619496, 
+                            39.996997
+                        ], 
+                        [
+                            -83.623116, 
+                            39.994865
+                        ], 
+                        [
+                            -83.626077, 
+                            39.995843
+                        ], 
+                        [
+                            -83.62719, 
+                            40.001231
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Catawba", 
+                "postal-code": "43010", 
+                "state": "OH", 
+                "county-code": "023"
+            }
+        }
+    ]
+}

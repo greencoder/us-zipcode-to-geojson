@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.0241, 
+                    40.5973
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -96.02574399999999, 
+                            40.599166
+                        ], 
+                        [
+                            -96.023172, 
+                            40.599197
+                        ], 
+                        [
+                            -96.022266, 
+                            40.595566999999996
+                        ], 
+                        [
+                            -96.025598, 
+                            40.595589
+                        ], 
+                        [
+                            -96.025542, 
+                            40.596979999999995
+                        ], 
+                        [
+                            -96.02574399999999, 
+                            40.599166
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Lorton", 
+                "postal-code": "68382", 
+                "state": "NE", 
+                "county-code": "131"
+            }
+        }
+    ]
+}

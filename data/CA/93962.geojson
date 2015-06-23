@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.6555, 
+                    36.6261
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -121.648668, 
+                            36.627767
+                        ], 
+                        [
+                            -121.644903, 
+                            36.62629
+                        ], 
+                        [
+                            -121.64441099999999, 
+                            36.627096
+                        ], 
+                        [
+                            -121.642029, 
+                            36.626096
+                        ], 
+                        [
+                            -121.644852, 
+                            36.62143
+                        ], 
+                        [
+                            -121.650927, 
+                            36.623825
+                        ], 
+                        [
+                            -121.648668, 
+                            36.627767
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Spreckels", 
+                "postal-code": "93962", 
+                "state": "CA", 
+                "county-code": "053"
+            }
+        }
+    ]
+}

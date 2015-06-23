@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.0575, 
+                    37.0511
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -122.060187, 
+                            37.050121
+                        ], 
+                        [
+                            -122.057873, 
+                            37.052378
+                        ], 
+                        [
+                            -122.054126, 
+                            37.05044
+                        ], 
+                        [
+                            -122.05818, 
+                            37.050242
+                        ], 
+                        [
+                            -122.059618, 
+                            37.048431
+                        ], 
+                        [
+                            -122.061318, 
+                            37.048061
+                        ], 
+                        [
+                            -122.060187, 
+                            37.050121
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Mount Hermon", 
+                "postal-code": "95041", 
+                "state": "CA", 
+                "county-code": "087"
+            }
+        }
+    ]
+}

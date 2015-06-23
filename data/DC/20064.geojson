@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.9963, 
+                    38.9332
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -77.002983, 
+                            38.940743
+                        ], 
+                        [
+                            -76.997546, 
+                            38.940732
+                        ], 
+                        [
+                            -76.996578, 
+                            38.938102
+                        ], 
+                        [
+                            -76.994723, 
+                            38.934323
+                        ], 
+                        [
+                            -76.99506199999999, 
+                            38.933625
+                        ], 
+                        [
+                            -77.000982, 
+                            38.931215
+                        ], 
+                        [
+                            -77.001303, 
+                            38.931812
+                        ], 
+                        [
+                            -77.002983, 
+                            38.940743
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Washington", 
+                "postal-code": "20064", 
+                "state": "DC", 
+                "county-code": "001"
+            }
+        }
+    ]
+}

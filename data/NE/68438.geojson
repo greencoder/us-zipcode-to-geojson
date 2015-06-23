@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.7456, 
+                    40.6267
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -96.748144, 
+                            40.62849
+                        ], 
+                        [
+                            -96.741091, 
+                            40.628398
+                        ], 
+                        [
+                            -96.74046, 
+                            40.627496
+                        ], 
+                        [
+                            -96.741123, 
+                            40.624794
+                        ], 
+                        [
+                            -96.74479199999999, 
+                            40.624871
+                        ], 
+                        [
+                            -96.748318, 
+                            40.624857
+                        ], 
+                        [
+                            -96.748144, 
+                            40.62849
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Sprague", 
+                "postal-code": "68438", 
+                "state": "NE", 
+                "county-code": "109"
+            }
+        }
+    ]
+}

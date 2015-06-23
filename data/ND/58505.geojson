@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -100.7805, 
+                    46.8165
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -100.785718, 
+                            46.823626
+                        ], 
+                        [
+                            -100.774048, 
+                            46.823605
+                        ], 
+                        [
+                            -100.77602, 
+                            46.821599
+                        ], 
+                        [
+                            -100.776521, 
+                            46.817678
+                        ], 
+                        [
+                            -100.776878, 
+                            46.816672
+                        ], 
+                        [
+                            -100.786603, 
+                            46.816612
+                        ], 
+                        [
+                            -100.785718, 
+                            46.823626
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Bismarck", 
+                "postal-code": "58505", 
+                "state": "ND", 
+                "county-code": "015"
+            }
+        }
+    ]
+}

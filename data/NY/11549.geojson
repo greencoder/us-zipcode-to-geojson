@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6027, 
+                    40.7172
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.605668, 
+                            40.719614
+                        ], 
+                        [
+                            -73.60270299999999, 
+                            40.720341
+                        ], 
+                        [
+                            -73.601615, 
+                            40.717659999999995
+                        ], 
+                        [
+                            -73.600438, 
+                            40.717565
+                        ], 
+                        [
+                            -73.599316, 
+                            40.715872
+                        ], 
+                        [
+                            -73.60359199999999, 
+                            40.714372
+                        ], 
+                        [
+                            -73.605668, 
+                            40.719614
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Hempstead", 
+                "postal-code": "11549", 
+                "state": "NY", 
+                "county-code": "059"
+            }
+        }
+    ]
+}

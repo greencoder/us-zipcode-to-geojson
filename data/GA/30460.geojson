@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.7823, 
+                    32.4179
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -81.781632, 
+                            32.420386
+                        ], 
+                        [
+                            -81.77995, 
+                            32.419219
+                        ], 
+                        [
+                            -81.781305, 
+                            32.417578
+                        ], 
+                        [
+                            -81.78313, 
+                            32.41872
+                        ], 
+                        [
+                            -81.781632, 
+                            32.420386
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Statesboro", 
+                "postal-code": "30460", 
+                "state": "GA", 
+                "county-code": "031"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.1787, 
+                    34.9926
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -81.036101, 
+                            34.941435
+                        ], 
+                        [
+                            -81.031104, 
+                            34.943244
+                        ], 
+                        [
+                            -81.02932899999999, 
+                            34.939318
+                        ], 
+                        [
+                            -81.028932, 
+                            34.936976
+                        ], 
+                        [
+                            -81.031544, 
+                            34.935569
+                        ], 
+                        [
+                            -81.036101, 
+                            34.941435
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Rock Hill", 
+                "postal-code": "29733", 
+                "state": "SC", 
+                "county-code": "091"
+            }
+        }
+    ]
+}

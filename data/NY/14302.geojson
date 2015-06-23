@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.8307, 
+                    43.3268
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -79.050522, 
+                            43.094698
+                        ], 
+                        [
+                            -79.04857899999999, 
+                            43.09478
+                        ], 
+                        [
+                            -79.04736799999999, 
+                            43.093232
+                        ], 
+                        [
+                            -79.05040000000001, 
+                            43.093103
+                        ], 
+                        [
+                            -79.050522, 
+                            43.094698
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Niagara Falls", 
+                "postal-code": "14302", 
+                "state": "NY", 
+                "county-code": "063"
+            }
+        }
+    ]
+}

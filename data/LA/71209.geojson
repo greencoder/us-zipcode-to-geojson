@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -92.0756, 
+                    32.5277
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -92.06997, 
+                            32.530139999999996
+                        ], 
+                        [
+                            -92.06926, 
+                            32.52966
+                        ], 
+                        [
+                            -92.06875, 
+                            32.52942
+                        ], 
+                        [
+                            -92.069733, 
+                            32.527834999999996
+                        ], 
+                        [
+                            -92.071535, 
+                            32.529519
+                        ], 
+                        [
+                            -92.06997, 
+                            32.530139999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Monroe", 
+                "postal-code": "71209", 
+                "state": "LA", 
+                "county-code": "073"
+            }
+        }
+    ]
+}

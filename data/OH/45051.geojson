@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.6431, 
+                    39.0965
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -84.648501, 
+                            39.101301
+                        ], 
+                        [
+                            -84.644807, 
+                            39.099615
+                        ], 
+                        [
+                            -84.642853, 
+                            39.09747
+                        ], 
+                        [
+                            -84.647089, 
+                            39.095076
+                        ], 
+                        [
+                            -84.64848099999999, 
+                            39.095597
+                        ], 
+                        [
+                            -84.649203, 
+                            39.09583
+                        ], 
+                        [
+                            -84.648501, 
+                            39.101301
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Mount Saint Joseph", 
+                "postal-code": "45051", 
+                "state": "OH", 
+                "county-code": "061"
+            }
+        }
+    ]
+}

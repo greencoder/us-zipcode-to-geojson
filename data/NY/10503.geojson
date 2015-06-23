@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8718, 
+                    41.0259
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.875895, 
+                            41.027736999999995
+                        ], 
+                        [
+                            -73.874526, 
+                            41.027377
+                        ], 
+                        [
+                            -73.874206, 
+                            41.025847999999996
+                        ], 
+                        [
+                            -73.873834, 
+                            41.025566
+                        ], 
+                        [
+                            -73.87631, 
+                            41.025621
+                        ], 
+                        [
+                            -73.875895, 
+                            41.027736999999995
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Ardsley On Hudson", 
+                "postal-code": "10503", 
+                "state": "NY", 
+                "county-code": "119"
+            }
+        }
+    ]
+}

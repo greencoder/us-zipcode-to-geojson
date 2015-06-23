@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.1203, 
+                    31.547
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -97.12069199999999, 
+                            31.550649999999997
+                        ], 
+                        [
+                            -97.116689, 
+                            31.547302
+                        ], 
+                        [
+                            -97.116391, 
+                            31.546673
+                        ], 
+                        [
+                            -97.117474, 
+                            31.546255
+                        ], 
+                        [
+                            -97.12168299999999, 
+                            31.549781
+                        ], 
+                        [
+                            -97.12069199999999, 
+                            31.550649999999997
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Waco", 
+                "postal-code": "76798", 
+                "state": "TX", 
+                "county-code": "309"
+            }
+        }
+    ]
+}

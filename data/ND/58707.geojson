@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -101.3012, 
+                    48.2453
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -101.304911, 
+                            48.247253
+                        ], 
+                        [
+                            -101.30106, 
+                            48.247527999999996
+                        ], 
+                        [
+                            -101.296034, 
+                            48.247186
+                        ], 
+                        [
+                            -101.297311, 
+                            48.245064
+                        ], 
+                        [
+                            -101.304814, 
+                            48.245132
+                        ], 
+                        [
+                            -101.304911, 
+                            48.247253
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Minot", 
+                "postal-code": "58707", 
+                "state": "ND", 
+                "county-code": "101"
+            }
+        }
+    ]
+}

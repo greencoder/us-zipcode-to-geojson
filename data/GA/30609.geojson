@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.3774, 
+                    33.9464
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.383744, 
+                            33.9501
+                        ], 
+                        [
+                            -83.38238199999999, 
+                            33.950433
+                        ], 
+                        [
+                            -83.380927, 
+                            33.950790999999995
+                        ], 
+                        [
+                            -83.38026599999999, 
+                            33.948751
+                        ], 
+                        [
+                            -83.383172, 
+                            33.948201
+                        ], 
+                        [
+                            -83.383744, 
+                            33.9501
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Athens", 
+                "postal-code": "30609", 
+                "state": "GA", 
+                "county-code": "059"
+            }
+        }
+    ]
+}

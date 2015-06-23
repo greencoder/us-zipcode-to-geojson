@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.2223, 
+                    41.9644
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -90.257522, 
+                            41.982751
+                        ], 
+                        [
+                            -90.25246399999999, 
+                            41.98274
+                        ], 
+                        [
+                            -90.25247399999999, 
+                            41.990030999999995
+                        ], 
+                        [
+                            -90.24269, 
+                            41.989948
+                        ], 
+                        [
+                            -90.242685, 
+                            41.975367
+                        ], 
+                        [
+                            -90.257465, 
+                            41.975648
+                        ], 
+                        [
+                            -90.257522, 
+                            41.982751
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Andover", 
+                "postal-code": "52701", 
+                "state": "IA", 
+                "county-code": "045"
+            }
+        }
+    ]
+}

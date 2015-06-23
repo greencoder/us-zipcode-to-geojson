@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.4712, 
+                    40.6934
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -75.52036799999999, 
+                            40.485606
+                        ], 
+                        [
+                            -75.52021599999999, 
+                            40.485634999999995
+                        ], 
+                        [
+                            -75.51923, 
+                            40.484311999999996
+                        ], 
+                        [
+                            -75.519911, 
+                            40.484038999999996
+                        ], 
+                        [
+                            -75.520788, 
+                            40.485347999999995
+                        ], 
+                        [
+                            -75.52036799999999, 
+                            40.485606
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Old Zionsville", 
+                "postal-code": "18068", 
+                "state": "PA", 
+                "county-code": "077"
+            }
+        }
+    ]
+}

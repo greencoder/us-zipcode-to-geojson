@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.8034, 
+                    47.4323
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -122.33624, 
+                            47.604693
+                        ], 
+                        [
+                            -122.335131, 
+                            47.605157999999996
+                        ], 
+                        [
+                            -122.334479, 
+                            47.604445
+                        ], 
+                        [
+                            -122.335588, 
+                            47.60398
+                        ], 
+                        [
+                            -122.33624, 
+                            47.604693
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Seattle", 
+                "postal-code": "98174", 
+                "state": "WA", 
+                "county-code": "033"
+            }
+        }
+    ]
+}

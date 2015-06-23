@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.1981, 
+                    36.3097
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -115.207188, 
+                            36.313437
+                        ], 
+                        [
+                            -115.202457, 
+                            36.313443
+                        ], 
+                        [
+                            -115.189183, 
+                            36.312920999999996
+                        ], 
+                        [
+                            -115.188994, 
+                            36.305681
+                        ], 
+                        [
+                            -115.204178, 
+                            36.306128
+                        ], 
+                        [
+                            -115.207239, 
+                            36.305966
+                        ], 
+                        [
+                            -115.207188, 
+                            36.313437
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "North Las Vegas", 
+                "postal-code": "89085", 
+                "state": "NV", 
+                "county-code": "003"
+            }
+        }
+    ]
+}

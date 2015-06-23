@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9735, 
+                    40.7583
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.973068, 
+                            40.758432
+                        ], 
+                        [
+                            -73.971451, 
+                            40.757749
+                        ], 
+                        [
+                            -73.971907, 
+                            40.757124999999995
+                        ], 
+                        [
+                            -73.973524, 
+                            40.757808
+                        ], 
+                        [
+                            -73.973068, 
+                            40.758432
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "New York City", 
+                "postal-code": "10154", 
+                "state": "NY", 
+                "county-code": "061"
+            }
+        }
+    ]
+}

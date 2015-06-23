@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.8019, 
+                    32.7813
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -96.803271, 
+                            32.781337
+                        ], 
+                        [
+                            -96.801487, 
+                            32.781746
+                        ], 
+                        [
+                            -96.801332, 
+                            32.781484
+                        ], 
+                        [
+                            -96.801192, 
+                            32.781013
+                        ], 
+                        [
+                            -96.803049, 
+                            32.780648
+                        ], 
+                        [
+                            -96.803271, 
+                            32.781337
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Dallas", 
+                "postal-code": "75270", 
+                "state": "TX", 
+                "county-code": "113"
+            }
+        }
+    ]
+}

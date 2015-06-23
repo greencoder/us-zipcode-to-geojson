@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.2128, 
+                    41.5302
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.22223699999999, 
+                            41.538267
+                        ], 
+                        [
+                            -83.212537, 
+                            41.538328
+                        ], 
+                        [
+                            -83.202867, 
+                            41.538385
+                        ], 
+                        [
+                            -83.20295, 
+                            41.523804
+                        ], 
+                        [
+                            -83.222279, 
+                            41.523728999999996
+                        ], 
+                        [
+                            -83.22223699999999, 
+                            41.538267
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Rocky Ridge", 
+                "postal-code": "43458", 
+                "state": "OH", 
+                "county-code": "123"
+            }
+        }
+    ]
+}

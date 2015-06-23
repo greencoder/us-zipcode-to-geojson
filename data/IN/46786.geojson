@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -85.3192, 
+                    41.5369
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -85.274473, 
+                            41.532635
+                        ], 
+                        [
+                            -85.271607, 
+                            41.533621
+                        ], 
+                        [
+                            -85.271549, 
+                            41.531155
+                        ], 
+                        [
+                            -85.270359, 
+                            41.530313
+                        ], 
+                        [
+                            -85.27277, 
+                            41.530026
+                        ], 
+                        [
+                            -85.274272, 
+                            41.531157
+                        ], 
+                        [
+                            -85.274473, 
+                            41.532635
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "South Milford", 
+                "postal-code": "46786", 
+                "state": "IN", 
+                "county-code": "087"
+            }
+        }
+    ]
+}

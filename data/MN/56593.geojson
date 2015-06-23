@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -95.3535, 
+                    46.8035
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -95.35552, 
+                            46.804429999999996
+                        ], 
+                        [
+                            -95.35298999999999, 
+                            46.804444
+                        ], 
+                        [
+                            -95.352322, 
+                            46.804272999999995
+                        ], 
+                        [
+                            -95.35237099999999, 
+                            46.803191
+                        ], 
+                        [
+                            -95.35575399999999, 
+                            46.80318
+                        ], 
+                        [
+                            -95.35552, 
+                            46.804429999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Wolf Lake", 
+                "postal-code": "56593", 
+                "state": "MN", 
+                "county-code": "005"
+            }
+        }
+    ]
+}

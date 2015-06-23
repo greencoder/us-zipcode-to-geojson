@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -69.1069, 
+                    44.8843
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -69.183531, 
+                            44.91077
+                        ], 
+                        [
+                            -69.062387, 
+                            44.926955
+                        ], 
+                        [
+                            -69.03921, 
+                            44.840964
+                        ], 
+                        [
+                            -69.102693, 
+                            44.832485
+                        ], 
+                        [
+                            -69.160716, 
+                            44.824906
+                        ], 
+                        [
+                            -69.183531, 
+                            44.91077
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Stetson", 
+                "postal-code": "04488", 
+                "state": "ME", 
+                "county-code": "019"
+            }
+        }
+    ]
+}

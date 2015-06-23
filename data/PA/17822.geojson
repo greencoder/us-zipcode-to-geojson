@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6049, 
+                    40.9674
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -76.609488, 
+                            40.967957
+                        ], 
+                        [
+                            -76.60618699999999, 
+                            40.969584
+                        ], 
+                        [
+                            -76.601914, 
+                            40.969761
+                        ], 
+                        [
+                            -76.601421, 
+                            40.967437
+                        ], 
+                        [
+                            -76.60536499999999, 
+                            40.966561
+                        ], 
+                        [
+                            -76.608059, 
+                            40.966238
+                        ], 
+                        [
+                            -76.609488, 
+                            40.967957
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Danville", 
+                "postal-code": "17822", 
+                "state": "PA", 
+                "county-code": "093"
+            }
+        }
+    ]
+}

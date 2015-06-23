@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.2435, 
+                    38.6531
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -90.206345, 
+                            38.6293
+                        ], 
+                        [
+                            -90.20626, 
+                            38.629266
+                        ], 
+                        [
+                            -90.203769, 
+                            38.628699
+                        ], 
+                        [
+                            -90.204689, 
+                            38.626483
+                        ], 
+                        [
+                            -90.207004, 
+                            38.626957999999995
+                        ], 
+                        [
+                            -90.206345, 
+                            38.6293
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Saint Louis", 
+                "postal-code": "63155", 
+                "state": "MO", 
+                "county-code": "510"
+            }
+        }
+    ]
+}

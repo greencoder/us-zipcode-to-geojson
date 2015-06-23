@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -94.6917, 
+                    42.1845
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -94.70191299999999, 
+                            42.18814
+                        ], 
+                        [
+                            -94.68740299999999, 
+                            42.188064
+                        ], 
+                        [
+                            -94.687362, 
+                            42.180957
+                        ], 
+                        [
+                            -94.702028, 
+                            42.180991
+                        ], 
+                        [
+                            -94.70191299999999, 
+                            42.18814
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Lanesboro", 
+                "postal-code": "51451", 
+                "state": "IA", 
+                "county-code": "027"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.7347, 
+                    17.7342
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -64.68459, 
+                            17.74571
+                        ], 
+                        [
+                            -64.6837, 
+                            17.74543
+                        ], 
+                        [
+                            -64.68157, 
+                            17.744989999999998
+                        ], 
+                        [
+                            -64.68051, 
+                            17.74466
+                        ], 
+                        [
+                            -64.68265, 
+                            17.7434
+                        ], 
+                        [
+                            -64.684704, 
+                            17.745335999999998
+                        ], 
+                        [
+                            -64.68459, 
+                            17.74571
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Christiansted", 
+                "postal-code": "00824", 
+                "state": "VI", 
+                "county-code": "010"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -85.0077, 
+                    43.1136
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -84.986779, 
+                            43.112429
+                        ], 
+                        [
+                            -84.982625, 
+                            43.112449
+                        ], 
+                        [
+                            -84.98264499999999, 
+                            43.108526
+                        ], 
+                        [
+                            -84.985373, 
+                            43.108503999999996
+                        ], 
+                        [
+                            -84.986772, 
+                            43.108067999999996
+                        ], 
+                        [
+                            -84.986779, 
+                            43.112429
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Palo", 
+                "postal-code": "48870", 
+                "state": "MI", 
+                "county-code": "067"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.6281, 
+                    43.2568
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -88.636033, 
+                            43.260301
+                        ], 
+                        [
+                            -88.62188599999999, 
+                            43.257006
+                        ], 
+                        [
+                            -88.622137, 
+                            43.255474
+                        ], 
+                        [
+                            -88.622271, 
+                            43.255286
+                        ], 
+                        [
+                            -88.63593, 
+                            43.255320999999995
+                        ], 
+                        [
+                            -88.636033, 
+                            43.260301
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Lebanon", 
+                "postal-code": "53047", 
+                "state": "WI", 
+                "county-code": "027"
+            }
+        }
+    ]
+}

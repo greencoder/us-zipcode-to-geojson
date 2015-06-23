@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.5131, 
+                    41.3669
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -89.46628199999999, 
+                            41.505357
+                        ], 
+                        [
+                            -89.463449, 
+                            41.505348999999995
+                        ], 
+                        [
+                            -89.463439, 
+                            41.503962
+                        ], 
+                        [
+                            -89.451768, 
+                            41.503899
+                        ], 
+                        [
+                            -89.451968, 
+                            41.494847
+                        ], 
+                        [
+                            -89.466438, 
+                            41.494851
+                        ], 
+                        [
+                            -89.46628199999999, 
+                            41.505357
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Kasbeer", 
+                "postal-code": "61328", 
+                "state": "IL", 
+                "county-code": "011"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.6081, 
+                    46.2718
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -96.609584, 
+                            46.27429
+                        ], 
+                        [
+                            -96.60658199999999, 
+                            46.274315
+                        ], 
+                        [
+                            -96.60534899999999, 
+                            46.273630999999995
+                        ], 
+                        [
+                            -96.60533699999999, 
+                            46.271867
+                        ], 
+                        [
+                            -96.60965999999999, 
+                            46.271522999999995
+                        ], 
+                        [
+                            -96.609584, 
+                            46.27429
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Wahpeton", 
+                "postal-code": "58076", 
+                "state": "ND", 
+                "county-code": "077"
+            }
+        }
+    ]
+}

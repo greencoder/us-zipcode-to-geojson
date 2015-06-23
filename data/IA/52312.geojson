@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -91.2459, 
+                    42.006
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -91.249718, 
+                            42.007652
+                        ], 
+                        [
+                            -91.241976, 
+                            42.007853
+                        ], 
+                        [
+                            -91.241883, 
+                            42.004585999999996
+                        ], 
+                        [
+                            -91.244815, 
+                            42.004394999999995
+                        ], 
+                        [
+                            -91.24976799999999, 
+                            42.004179
+                        ], 
+                        [
+                            -91.249718, 
+                            42.007652
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Morley", 
+                "postal-code": "52312", 
+                "state": "IA", 
+                "county-code": "105"
+            }
+        }
+    ]
+}

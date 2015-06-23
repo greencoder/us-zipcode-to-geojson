@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.4239, 
+                    43.0696
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -88.232141, 
+                            43.060139
+                        ], 
+                        [
+                            -88.231223, 
+                            43.061808
+                        ], 
+                        [
+                            -88.228714, 
+                            43.0617
+                        ], 
+                        [
+                            -88.230487, 
+                            43.060036
+                        ], 
+                        [
+                            -88.231988, 
+                            43.059894
+                        ], 
+                        [
+                            -88.232141, 
+                            43.060139
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Madison", 
+                "postal-code": "53702", 
+                "state": "WI", 
+                "county-code": "025"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.4293, 
+                    42.5198
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.43208899999999, 
+                            42.519535
+                        ], 
+                        [
+                            -71.428343, 
+                            42.522191
+                        ], 
+                        [
+                            -71.426169, 
+                            42.521499
+                        ], 
+                        [
+                            -71.428293, 
+                            42.520362999999996
+                        ], 
+                        [
+                            -71.428421, 
+                            42.518007999999995
+                        ], 
+                        [
+                            -71.430278, 
+                            42.516946999999995
+                        ], 
+                        [
+                            -71.43208899999999, 
+                            42.519535
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Village Of Nagog Woods", 
+                "postal-code": "01718", 
+                "state": "MA", 
+                "county-code": "017"
+            }
+        }
+    ]
+}

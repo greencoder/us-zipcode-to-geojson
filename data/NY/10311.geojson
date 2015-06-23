@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.1795, 
+                    40.6052
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -74.180577, 
+                            40.606016
+                        ], 
+                        [
+                            -74.179175, 
+                            40.607867
+                        ], 
+                        [
+                            -74.176962, 
+                            40.605989
+                        ], 
+                        [
+                            -74.178123, 
+                            40.604507999999996
+                        ], 
+                        [
+                            -74.180413, 
+                            40.602927
+                        ], 
+                        [
+                            -74.182464, 
+                            40.604209999999995
+                        ], 
+                        [
+                            -74.180577, 
+                            40.606016
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Staten Island", 
+                "postal-code": "10311", 
+                "state": "NY", 
+                "county-code": "085"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.6166, 
+                    40.6963
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -89.61467499999999, 
+                            40.698063
+                        ], 
+                        [
+                            -89.613162, 
+                            40.698057
+                        ], 
+                        [
+                            -89.612256, 
+                            40.698364999999995
+                        ], 
+                        [
+                            -89.610512, 
+                            40.697046
+                        ], 
+                        [
+                            -89.614695, 
+                            40.697123
+                        ], 
+                        [
+                            -89.61467499999999, 
+                            40.698063
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Peoria", 
+                "postal-code": "61625", 
+                "state": "IL", 
+                "county-code": "143"
+            }
+        }
+    ]
+}

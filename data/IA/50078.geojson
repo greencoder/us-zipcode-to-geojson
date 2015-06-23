@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -92.865, 
+                    41.9374
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -92.867824, 
+                            41.942234
+                        ], 
+                        [
+                            -92.858025, 
+                            41.942262
+                        ], 
+                        [
+                            -92.85822499999999, 
+                            41.935002
+                        ], 
+                        [
+                            -92.863112, 
+                            41.934872999999996
+                        ], 
+                        [
+                            -92.867931, 
+                            41.934912999999995
+                        ], 
+                        [
+                            -92.867824, 
+                            41.942234
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Ferguson", 
+                "postal-code": "50078", 
+                "state": "IA", 
+                "county-code": "127"
+            }
+        }
+    ]
+}

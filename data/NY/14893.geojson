@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.0977, 
+                    42.4741
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -77.108299, 
+                            42.46874
+                        ], 
+                        [
+                            -77.106753, 
+                            42.469674999999995
+                        ], 
+                        [
+                            -77.106635, 
+                            42.465888
+                        ], 
+                        [
+                            -77.109765, 
+                            42.467855
+                        ], 
+                        [
+                            -77.108299, 
+                            42.46874
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Wayne", 
+                "postal-code": "14893", 
+                "state": "NY", 
+                "county-code": "097"
+            }
+        }
+    ]
+}

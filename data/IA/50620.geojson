@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -92.5905, 
+                    43.1584
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -92.594149, 
+                            43.160928999999996
+                        ], 
+                        [
+                            -92.587014, 
+                            43.160967
+                        ], 
+                        [
+                            -92.586964, 
+                            43.155915
+                        ], 
+                        [
+                            -92.59112499999999, 
+                            43.155892
+                        ], 
+                        [
+                            -92.59404599999999, 
+                            43.155868
+                        ], 
+                        [
+                            -92.594149, 
+                            43.160928999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Colwell", 
+                "postal-code": "50620", 
+                "state": "IA", 
+                "county-code": "067"
+            }
+        }
+    ]
+}

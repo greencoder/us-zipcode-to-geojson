@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -66.0605, 
+                    18.4105
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -66.09550999999999, 
+                            18.464855
+                        ], 
+                        [
+                            -66.094368, 
+                            18.464655999999998
+                        ], 
+                        [
+                            -66.094471, 
+                            18.464069
+                        ], 
+                        [
+                            -66.09561699999999, 
+                            18.46425
+                        ], 
+                        [
+                            -66.09550999999999, 
+                            18.464855
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "San Juan", 
+                "postal-code": "00906", 
+                "state": "PR", 
+                "county-code": ""
+            }
+        }
+    ]
+}

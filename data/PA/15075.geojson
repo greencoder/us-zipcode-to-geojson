@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.0248, 
+                    40.4344
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -79.827062, 
+                            40.587495
+                        ], 
+                        [
+                            -79.825501, 
+                            40.587115
+                        ], 
+                        [
+                            -79.825426, 
+                            40.585802
+                        ], 
+                        [
+                            -79.827072, 
+                            40.584483999999996
+                        ], 
+                        [
+                            -79.826635, 
+                            40.583417
+                        ], 
+                        [
+                            -79.828605, 
+                            40.586484999999996
+                        ], 
+                        [
+                            -79.827062, 
+                            40.587495
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Rural Ridge", 
+                "postal-code": "15075", 
+                "state": "PA", 
+                "county-code": "003"
+            }
+        }
+    ]
+}

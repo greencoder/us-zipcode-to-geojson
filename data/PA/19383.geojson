@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.6024, 
+                    39.9455
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -75.604653, 
+                            39.952529999999996
+                        ], 
+                        [
+                            -75.601264, 
+                            39.954068
+                        ], 
+                        [
+                            -75.598418, 
+                            39.950827
+                        ], 
+                        [
+                            -75.602351, 
+                            39.949200999999995
+                        ], 
+                        [
+                            -75.604359, 
+                            39.952104
+                        ], 
+                        [
+                            -75.604653, 
+                            39.952529999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "West Chester", 
+                "postal-code": "19383", 
+                "state": "PA", 
+                "county-code": "029"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.9633, 
+                    36.7754
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -75.96502799999999, 
+                            36.777327
+                        ], 
+                        [
+                            -75.963814, 
+                            36.777906
+                        ], 
+                        [
+                            -75.962586, 
+                            36.77821
+                        ], 
+                        [
+                            -75.960842, 
+                            36.773512
+                        ], 
+                        [
+                            -75.96409299999999, 
+                            36.772743
+                        ], 
+                        [
+                            -75.96477, 
+                            36.774572
+                        ], 
+                        [
+                            -75.96502799999999, 
+                            36.777327
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Virginia Beach", 
+                "postal-code": "23461", 
+                "state": "VA", 
+                "county-code": "810"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.8654, 
+                    39.4015
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -75.876694, 
+                            39.406119
+                        ], 
+                        [
+                            -75.864274, 
+                            39.410779
+                        ], 
+                        [
+                            -75.858811, 
+                            39.40342
+                        ], 
+                        [
+                            -75.87149099999999, 
+                            39.398433
+                        ], 
+                        [
+                            -75.874504, 
+                            39.402724
+                        ], 
+                        [
+                            -75.876694, 
+                            39.406119
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Cecilton", 
+                "postal-code": "21913", 
+                "state": "MD", 
+                "county-code": "015"
+            }
+        }
+    ]
+}

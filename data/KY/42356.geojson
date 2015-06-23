@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.3238, 
+                    37.6932
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -87.325481, 
+                            37.694566
+                        ], 
+                        [
+                            -87.32325, 
+                            37.694713
+                        ], 
+                        [
+                            -87.32230299999999, 
+                            37.693013
+                        ], 
+                        [
+                            -87.32520799999999, 
+                            37.691941
+                        ], 
+                        [
+                            -87.325338, 
+                            37.692806
+                        ], 
+                        [
+                            -87.325481, 
+                            37.694566
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Maple Mount", 
+                "postal-code": "42356", 
+                "state": "KY", 
+                "county-code": "059"
+            }
+        }
+    ]
+}

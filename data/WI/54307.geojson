@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.0074, 
+                    44.4601
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -88.040328, 
+                            44.47211
+                        ], 
+                        [
+                            -88.039363, 
+                            44.473006
+                        ], 
+                        [
+                            -88.031819, 
+                            44.470005
+                        ], 
+                        [
+                            -88.033337, 
+                            44.467831
+                        ], 
+                        [
+                            -88.041794, 
+                            44.470808999999996
+                        ], 
+                        [
+                            -88.040328, 
+                            44.47211
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Green Bay", 
+                "postal-code": "54307", 
+                "state": "WI", 
+                "county-code": "009"
+            }
+        }
+    ]
+}

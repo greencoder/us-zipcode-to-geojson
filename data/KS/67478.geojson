@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.9328, 
+                    39.3851
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -97.948257, 
+                            39.393352
+                        ], 
+                        [
+                            -97.929507, 
+                            39.393543
+                        ], 
+                        [
+                            -97.929374, 
+                            39.378842
+                        ], 
+                        [
+                            -97.948066, 
+                            39.378648999999996
+                        ], 
+                        [
+                            -97.948257, 
+                            39.393352
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Simpson", 
+                "postal-code": "67478", 
+                "state": "KS", 
+                "county-code": "123"
+            }
+        }
+    ]
+}

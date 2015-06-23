@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.6202, 
+                    41.6457
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.445341, 
+                            41.695297
+                        ], 
+                        [
+                            -83.444816, 
+                            41.69531
+                        ], 
+                        [
+                            -83.44404999999999, 
+                            41.695282
+                        ], 
+                        [
+                            -83.444025, 
+                            41.690759
+                        ], 
+                        [
+                            -83.44533899999999, 
+                            41.690737999999996
+                        ], 
+                        [
+                            -83.445341, 
+                            41.695297
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Harbor View", 
+                "postal-code": "43434", 
+                "state": "OH", 
+                "county-code": "095"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -70.4707, 
+                    44.4081
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -70.701213, 
+                            44.103648
+                        ], 
+                        [
+                            -70.69881, 
+                            44.104531
+                        ], 
+                        [
+                            -70.69660999999999, 
+                            44.100508
+                        ], 
+                        [
+                            -70.69726899999999, 
+                            44.09903
+                        ], 
+                        [
+                            -70.700609, 
+                            44.099681
+                        ], 
+                        [
+                            -70.70033, 
+                            44.100846
+                        ], 
+                        [
+                            -70.701213, 
+                            44.103648
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "North Bridgton", 
+                "postal-code": "04057", 
+                "state": "ME", 
+                "county-code": "005"
+            }
+        }
+    ]
+}

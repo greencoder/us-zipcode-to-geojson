@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.0224, 
+                    42.6929
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -78.021616, 
+                            42.699459999999995
+                        ], 
+                        [
+                            -78.019778, 
+                            42.699407
+                        ], 
+                        [
+                            -78.019148, 
+                            42.70283
+                        ], 
+                        [
+                            -78.013548, 
+                            42.702787
+                        ], 
+                        [
+                            -78.014662, 
+                            42.697582
+                        ], 
+                        [
+                            -78.021515, 
+                            42.697533
+                        ], 
+                        [
+                            -78.021616, 
+                            42.699459999999995
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Silver Lake", 
+                "postal-code": "14549", 
+                "state": "NY", 
+                "county-code": "121"
+            }
+        }
+    ]
+}

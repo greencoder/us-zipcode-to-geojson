@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.4896, 
+                    41.2426
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.492345, 
+                            41.246185
+                        ], 
+                        [
+                            -83.486972, 
+                            41.247693
+                        ], 
+                        [
+                            -83.486937, 
+                            41.245075
+                        ], 
+                        [
+                            -83.477637, 
+                            41.248056
+                        ], 
+                        [
+                            -83.47752299999999, 
+                            41.23911
+                        ], 
+                        [
+                            -83.48644, 
+                            41.239042
+                        ], 
+                        [
+                            -83.489766, 
+                            41.241605
+                        ], 
+                        [
+                            -83.492345, 
+                            41.246185
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "West Millgrove", 
+                "postal-code": "43467", 
+                "state": "OH", 
+                "county-code": "173"
+            }
+        }
+    ]
+}

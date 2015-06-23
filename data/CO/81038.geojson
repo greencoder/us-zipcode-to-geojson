@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -103.0725, 
+                    37.9555
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -103.142647, 
+                            38.085192
+                        ], 
+                        [
+                            -103.142057, 
+                            38.084727
+                        ], 
+                        [
+                            -103.136219, 
+                            38.076699
+                        ], 
+                        [
+                            -103.14241, 
+                            38.075604999999996
+                        ], 
+                        [
+                            -103.142591, 
+                            38.082741999999996
+                        ], 
+                        [
+                            -103.142647, 
+                            38.085192
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Fort Lyon", 
+                "postal-code": "81038", 
+                "state": "CO", 
+                "county-code": "011"
+            }
+        }
+    ]
+}

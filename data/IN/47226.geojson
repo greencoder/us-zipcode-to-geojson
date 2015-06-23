@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -85.8685, 
+                    39.2826
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -85.87312, 
+                            39.284501999999996
+                        ], 
+                        [
+                            -85.866142, 
+                            39.284787
+                        ], 
+                        [
+                            -85.86613299999999, 
+                            39.279951
+                        ], 
+                        [
+                            -85.871078, 
+                            39.279907
+                        ], 
+                        [
+                            -85.870617, 
+                            39.282401
+                        ], 
+                        [
+                            -85.873082, 
+                            39.282343
+                        ], 
+                        [
+                            -85.87312, 
+                            39.284501999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Clifford", 
+                "postal-code": "47226", 
+                "state": "IN", 
+                "county-code": "005"
+            }
+        }
+    ]
+}

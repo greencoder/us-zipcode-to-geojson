@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.209, 
+                    41.3953
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -96.213511, 
+                            41.400416
+                        ], 
+                        [
+                            -96.2042, 
+                            41.400362
+                        ], 
+                        [
+                            -96.203897, 
+                            41.400394
+                        ], 
+                        [
+                            -96.203918, 
+                            41.395075999999996
+                        ], 
+                        [
+                            -96.213488, 
+                            41.396069999999995
+                        ], 
+                        [
+                            -96.213511, 
+                            41.400416
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Washington", 
+                "postal-code": "68068", 
+                "state": "NE", 
+                "county-code": "177"
+            }
+        }
+    ]
+}

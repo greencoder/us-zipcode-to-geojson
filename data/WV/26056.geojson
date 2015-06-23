@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.5928, 
+                    40.5162
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -80.584493, 
+                            40.531433
+                        ], 
+                        [
+                            -80.579393, 
+                            40.532025
+                        ], 
+                        [
+                            -80.57812, 
+                            40.535073
+                        ], 
+                        [
+                            -80.571649, 
+                            40.529427
+                        ], 
+                        [
+                            -80.573751, 
+                            40.528484999999996
+                        ], 
+                        [
+                            -80.580141, 
+                            40.529981
+                        ], 
+                        [
+                            -80.580316, 
+                            40.531113
+                        ], 
+                        [
+                            -80.584493, 
+                            40.531433
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "New Manchester", 
+                "postal-code": "26056", 
+                "state": "WV", 
+                "county-code": "029"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8317, 
+                    40.7817
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.826235, 
+                            40.779921
+                        ], 
+                        [
+                            -73.825285, 
+                            40.781697
+                        ], 
+                        [
+                            -73.824624, 
+                            40.781706
+                        ], 
+                        [
+                            -73.825081, 
+                            40.780713999999996
+                        ], 
+                        [
+                            -73.825667, 
+                            40.77973
+                        ], 
+                        [
+                            -73.826235, 
+                            40.779921
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Flushing", 
+                "postal-code": "11351", 
+                "state": "NY", 
+                "county-code": "081"
+            }
+        }
+    ]
+}

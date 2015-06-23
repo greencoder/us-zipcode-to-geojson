@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -101.8959, 
+                    34.9654
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -101.919296, 
+                            34.984817
+                        ], 
+                        [
+                            -101.9183, 
+                            34.984805
+                        ], 
+                        [
+                            -101.9183, 
+                            34.982962
+                        ], 
+                        [
+                            -101.918028, 
+                            34.982037999999996
+                        ], 
+                        [
+                            -101.919308, 
+                            34.982062
+                        ], 
+                        [
+                            -101.919296, 
+                            34.984817
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Canyon", 
+                "postal-code": "79016", 
+                "state": "TX", 
+                "county-code": "381"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -85.0139, 
+                    38.5218
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -85.010975, 
+                            38.514963
+                        ], 
+                        [
+                            -85.009559, 
+                            38.516000999999996
+                        ], 
+                        [
+                            -85.008691, 
+                            38.514433
+                        ], 
+                        [
+                            -85.00831199999999, 
+                            38.514117999999996
+                        ], 
+                        [
+                            -85.010673, 
+                            38.512859
+                        ], 
+                        [
+                            -85.010975, 
+                            38.514963
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Perry Park", 
+                "postal-code": "40363", 
+                "state": "KY", 
+                "county-code": "187"
+            }
+        }
+    ]
+}

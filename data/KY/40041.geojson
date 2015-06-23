@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -85.6622, 
+                    38.2536
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -85.665847, 
+                            38.2539
+                        ], 
+                        [
+                            -85.66787099999999, 
+                            38.257415
+                        ], 
+                        [
+                            -85.665092, 
+                            38.259225
+                        ], 
+                        [
+                            -85.65950199999999, 
+                            38.253432
+                        ], 
+                        [
+                            -85.662128, 
+                            38.253626
+                        ], 
+                        [
+                            -85.668633, 
+                            38.253921
+                        ], 
+                        [
+                            -85.665847, 
+                            38.2539
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Masonic Home", 
+                "postal-code": "40041", 
+                "state": "KY", 
+                "county-code": "111"
+            }
+        }
+    ]
+}

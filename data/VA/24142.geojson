@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.548, 
+                    37.1387
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -80.553743, 
+                            37.141149
+                        ], 
+                        [
+                            -80.551254, 
+                            37.140765
+                        ], 
+                        [
+                            -80.547465, 
+                            37.138138
+                        ], 
+                        [
+                            -80.551131, 
+                            37.134011
+                        ], 
+                        [
+                            -80.55265, 
+                            37.13509
+                        ], 
+                        [
+                            -80.55303599999999, 
+                            37.138650999999996
+                        ], 
+                        [
+                            -80.553743, 
+                            37.141149
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Radford", 
+                "postal-code": "24142", 
+                "state": "VA", 
+                "county-code": "750"
+            }
+        }
+    ]
+}

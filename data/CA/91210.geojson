@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.2987, 
+                    33.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -118.257892, 
+                            34.146865
+                        ], 
+                        [
+                            -118.256379, 
+                            34.146453
+                        ], 
+                        [
+                            -118.255872, 
+                            34.146259
+                        ], 
+                        [
+                            -118.25506, 
+                            34.146271999999996
+                        ], 
+                        [
+                            -118.255039, 
+                            34.142592
+                        ], 
+                        [
+                            -118.257843, 
+                            34.142565999999995
+                        ], 
+                        [
+                            -118.257892, 
+                            34.146865
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Glendale", 
+                "postal-code": "91210", 
+                "state": "CA", 
+                "county-code": "037"
+            }
+        }
+    ]
+}

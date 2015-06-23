@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6187, 
+                    44.7903
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -122.61928, 
+                            44.79202
+                        ], 
+                        [
+                            -122.61827, 
+                            44.79202
+                        ], 
+                        [
+                            -122.61837, 
+                            44.79044
+                        ], 
+                        [
+                            -122.61836, 
+                            44.790209999999995
+                        ], 
+                        [
+                            -122.61953, 
+                            44.78982
+                        ], 
+                        [
+                            -122.61928, 
+                            44.79202
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Mehama", 
+                "postal-code": "97384", 
+                "state": "OR", 
+                "county-code": "047"
+            }
+        }
+    ]
+}

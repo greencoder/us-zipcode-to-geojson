@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -157.863, 
+                    21.3095
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -157.86369200000001, 
+                            21.304911
+                        ], 
+                        [
+                            -157.862656, 
+                            21.305431
+                        ], 
+                        [
+                            -157.86119, 
+                            21.303435999999998
+                        ], 
+                        [
+                            -157.863287, 
+                            21.301989
+                        ], 
+                        [
+                            -157.863459, 
+                            21.303259
+                        ], 
+                        [
+                            -157.86369200000001, 
+                            21.304911
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Honolulu", 
+                "postal-code": "96850", 
+                "state": "HI", 
+                "county-code": "003"
+            }
+        }
+    ]
+}

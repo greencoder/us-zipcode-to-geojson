@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.1894, 
+                    34.0555
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -93.06101, 
+                            34.129478999999996
+                        ], 
+                        [
+                            -93.057204, 
+                            34.129419999999996
+                        ], 
+                        [
+                            -93.057034, 
+                            34.126923
+                        ], 
+                        [
+                            -93.05704899999999, 
+                            34.125468999999995
+                        ], 
+                        [
+                            -93.06107, 
+                            34.125538999999996
+                        ], 
+                        [
+                            -93.06101, 
+                            34.129478999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Arkadelphia", 
+                "postal-code": "71999", 
+                "state": "AR", 
+                "county-code": "019"
+            }
+        }
+    ]
+}

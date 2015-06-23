@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.5015, 
+                    39.1732
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -86.508197, 
+                            39.071097
+                        ], 
+                        [
+                            -86.505577, 
+                            39.071134
+                        ], 
+                        [
+                            -86.506604, 
+                            39.069295
+                        ], 
+                        [
+                            -86.50677, 
+                            39.069233
+                        ], 
+                        [
+                            -86.508854, 
+                            39.07002
+                        ], 
+                        [
+                            -86.508197, 
+                            39.071097
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Smithville", 
+                "postal-code": "47458", 
+                "state": "IN", 
+                "county-code": "105"
+            }
+        }
+    ]
+}

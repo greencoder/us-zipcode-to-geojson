@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.8708, 
+                    40.6514
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.79608999999999, 
+                            40.703294
+                        ], 
+                        [
+                            -73.793577, 
+                            40.699756
+                        ], 
+                        [
+                            -73.794511, 
+                            40.69939
+                        ], 
+                        [
+                            -73.795722, 
+                            40.699014999999996
+                        ], 
+                        [
+                            -73.79841499999999, 
+                            40.702740999999996
+                        ], 
+                        [
+                            -73.79608999999999, 
+                            40.703294
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Jamaica", 
+                "postal-code": "11451", 
+                "state": "NY", 
+                "county-code": "081"
+            }
+        }
+    ]
+}

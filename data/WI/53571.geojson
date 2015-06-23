@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.3564, 
+                    43.2773
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -89.363085, 
+                            43.281304999999996
+                        ], 
+                        [
+                            -89.34449099999999, 
+                            43.281174
+                        ], 
+                        [
+                            -89.344425, 
+                            43.27444
+                        ], 
+                        [
+                            -89.357327, 
+                            43.274417
+                        ], 
+                        [
+                            -89.360258, 
+                            43.277080999999995
+                        ], 
+                        [
+                            -89.363022, 
+                            43.275510999999995
+                        ], 
+                        [
+                            -89.363085, 
+                            43.281304999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Morrisonville", 
+                "postal-code": "53571", 
+                "state": "WI", 
+                "county-code": "025"
+            }
+        }
+    ]
+}

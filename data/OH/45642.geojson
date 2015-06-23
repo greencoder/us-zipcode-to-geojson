@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.05, 
+                    39.0523
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.05448799999999, 
+                            39.048013
+                        ], 
+                        [
+                            -83.050299, 
+                            39.047089
+                        ], 
+                        [
+                            -83.049795, 
+                            39.043298
+                        ], 
+                        [
+                            -83.051656, 
+                            39.043804
+                        ], 
+                        [
+                            -83.053866, 
+                            39.044702
+                        ], 
+                        [
+                            -83.059208, 
+                            39.050813
+                        ], 
+                        [
+                            -83.05448799999999, 
+                            39.048013
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Jasper", 
+                "postal-code": "45642", 
+                "state": "OH", 
+                "county-code": "131"
+            }
+        }
+    ]
+}

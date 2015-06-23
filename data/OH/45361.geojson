@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.4145, 
+                    39.9635
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -84.422004, 
+                            39.968036
+                        ], 
+                        [
+                            -84.407675, 
+                            39.96801
+                        ], 
+                        [
+                            -84.40762099999999, 
+                            39.963452
+                        ], 
+                        [
+                            -84.40765999999999, 
+                            39.959595
+                        ], 
+                        [
+                            -84.417273, 
+                            39.959347
+                        ], 
+                        [
+                            -84.421988, 
+                            39.959520999999995
+                        ], 
+                        [
+                            -84.422004, 
+                            39.968036
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Potsdam", 
+                "postal-code": "45361", 
+                "state": "OH", 
+                "county-code": "109"
+            }
+        }
+    ]
+}

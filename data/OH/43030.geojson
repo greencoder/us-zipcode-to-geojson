@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.43, 
+                    39.9688
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -82.418939, 
+                            39.960822
+                        ], 
+                        [
+                            -82.415683, 
+                            39.965032
+                        ], 
+                        [
+                            -82.413418, 
+                            39.964483
+                        ], 
+                        [
+                            -82.413989, 
+                            39.959429
+                        ], 
+                        [
+                            -82.41384599999999, 
+                            39.958245999999995
+                        ], 
+                        [
+                            -82.419112, 
+                            39.959626
+                        ], 
+                        [
+                            -82.418939, 
+                            39.960822
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Jacksontown", 
+                "postal-code": "43030", 
+                "state": "OH", 
+                "county-code": "089"
+            }
+        }
+    ]
+}

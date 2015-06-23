@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.9554, 
+                    37.7772
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -122.320298, 
+                            37.904443
+                        ], 
+                        [
+                            -122.31903199999999, 
+                            37.906025
+                        ], 
+                        [
+                            -122.314081, 
+                            37.900047
+                        ], 
+                        [
+                            -122.316652, 
+                            37.89964
+                        ], 
+                        [
+                            -122.319973, 
+                            37.903942
+                        ], 
+                        [
+                            -122.320298, 
+                            37.904443
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Richmond", 
+                "postal-code": "94850", 
+                "state": "CA", 
+                "county-code": "013"
+            }
+        }
+    ]
+}

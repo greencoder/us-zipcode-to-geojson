@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.6376, 
+                    41.4019
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -75.714452, 
+                            41.60127
+                        ], 
+                        [
+                            -75.71444799999999, 
+                            41.605734999999996
+                        ], 
+                        [
+                            -75.713472, 
+                            41.60915
+                        ], 
+                        [
+                            -75.70164299999999, 
+                            41.598917
+                        ], 
+                        [
+                            -75.71217399999999, 
+                            41.597881
+                        ], 
+                        [
+                            -75.715148, 
+                            41.598152
+                        ], 
+                        [
+                            -75.714452, 
+                            41.60127
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Fleetville", 
+                "postal-code": "18420", 
+                "state": "PA", 
+                "county-code": "069"
+            }
+        }
+    ]
+}

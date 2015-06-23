@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.1994, 
+                    33.7678
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -118.204159, 
+                            33.769518
+                        ], 
+                        [
+                            -118.201606, 
+                            33.769286
+                        ], 
+                        [
+                            -118.199364, 
+                            33.769284999999996
+                        ], 
+                        [
+                            -118.198751, 
+                            33.767932
+                        ], 
+                        [
+                            -118.204086, 
+                            33.767281
+                        ], 
+                        [
+                            -118.204159, 
+                            33.769518
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Long Beach", 
+                "postal-code": "90831", 
+                "state": "CA", 
+                "county-code": "037"
+            }
+        }
+    ]
+}

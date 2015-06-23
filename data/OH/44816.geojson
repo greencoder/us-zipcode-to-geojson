@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.355, 
+                    41.3349
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -82.354152, 
+                            41.331114
+                        ], 
+                        [
+                            -82.35090000000001, 
+                            41.331607999999996
+                        ], 
+                        [
+                            -82.350985, 
+                            41.330194999999996
+                        ], 
+                        [
+                            -82.351143, 
+                            41.329197
+                        ], 
+                        [
+                            -82.3541, 
+                            41.328967999999996
+                        ], 
+                        [
+                            -82.354152, 
+                            41.331114
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Birmingham", 
+                "postal-code": "44816", 
+                "state": "OH", 
+                "county-code": "043"
+            }
+        }
+    ]
+}

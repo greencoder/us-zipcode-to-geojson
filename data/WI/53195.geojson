@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -88.4843, 
+                    42.5136
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -88.50100499999999, 
+                            42.516529999999996
+                        ], 
+                        [
+                            -88.481931, 
+                            42.516585
+                        ], 
+                        [
+                            -88.481808, 
+                            42.510296
+                        ], 
+                        [
+                            -88.492548, 
+                            42.511613
+                        ], 
+                        [
+                            -88.499163, 
+                            42.513009
+                        ], 
+                        [
+                            -88.50100499999999, 
+                            42.516529999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Zenda", 
+                "postal-code": "53195", 
+                "state": "WI", 
+                "county-code": "127"
+            }
+        }
+    ]
+}

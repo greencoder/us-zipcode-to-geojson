@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.2987, 
+                    33.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -118.334864, 
+                            33.887423
+                        ], 
+                        [
+                            -118.326498, 
+                            33.887406999999996
+                        ], 
+                        [
+                            -118.326488, 
+                            33.882821
+                        ], 
+                        [
+                            -118.330665, 
+                            33.881447
+                        ], 
+                        [
+                            -118.331254, 
+                            33.881368
+                        ], 
+                        [
+                            -118.334906, 
+                            33.885633
+                        ], 
+                        [
+                            -118.334864, 
+                            33.887423
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Torrance", 
+                "postal-code": "90506", 
+                "state": "CA", 
+                "county-code": "037"
+            }
+        }
+    ]
+}

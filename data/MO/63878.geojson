@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.8224, 
+                    36.503
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -89.827218, 
+                            36.510216
+                        ], 
+                        [
+                            -89.817514, 
+                            36.510228
+                        ], 
+                        [
+                            -89.81755199999999, 
+                            36.495764
+                        ], 
+                        [
+                            -89.82706499999999, 
+                            36.495753
+                        ], 
+                        [
+                            -89.827218, 
+                            36.510216
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Tallapoosa", 
+                "postal-code": "63878", 
+                "state": "MO", 
+                "county-code": "143"
+            }
+        }
+    ]
+}

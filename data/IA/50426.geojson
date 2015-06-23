@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -93.0028, 
+                    43.4149
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -93.018616, 
+                            43.416793
+                        ], 
+                        [
+                            -93.016573, 
+                            43.415960999999996
+                        ], 
+                        [
+                            -93.01521799999999, 
+                            43.415946999999996
+                        ], 
+                        [
+                            -93.014884, 
+                            43.41411
+                        ], 
+                        [
+                            -93.017224, 
+                            43.415043
+                        ], 
+                        [
+                            -93.019835, 
+                            43.415062
+                        ], 
+                        [
+                            -93.018616, 
+                            43.416793
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Carpenter", 
+                "postal-code": "50426", 
+                "state": "IA", 
+                "county-code": "131"
+            }
+        }
+    ]
+}

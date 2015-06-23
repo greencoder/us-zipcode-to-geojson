@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.4959, 
+                    40.5189
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -79.500663, 
+                            40.52071
+                        ], 
+                        [
+                            -79.498738, 
+                            40.522107999999996
+                        ], 
+                        [
+                            -79.49813499999999, 
+                            40.521432999999995
+                        ], 
+                        [
+                            -79.499026, 
+                            40.52081
+                        ], 
+                        [
+                            -79.498289, 
+                            40.520195
+                        ], 
+                        [
+                            -79.499132, 
+                            40.519452
+                        ], 
+                        [
+                            -79.500663, 
+                            40.52071
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Salina", 
+                "postal-code": "15680", 
+                "state": "PA", 
+                "county-code": "129"
+            }
+        }
+    ]
+}

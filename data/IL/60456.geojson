@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.7315, 
+                    41.7311
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -87.741067, 
+                            41.734524
+                        ], 
+                        [
+                            -87.721436, 
+                            41.734862
+                        ], 
+                        [
+                            -87.721654, 
+                            41.727788
+                        ], 
+                        [
+                            -87.73861099999999, 
+                            41.727509
+                        ], 
+                        [
+                            -87.73870699999999, 
+                            41.729185
+                        ], 
+                        [
+                            -87.74109899999999, 
+                            41.729164
+                        ], 
+                        [
+                            -87.741067, 
+                            41.734524
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Hometown", 
+                "postal-code": "60456", 
+                "state": "IL", 
+                "county-code": "031"
+            }
+        }
+    ]
+}

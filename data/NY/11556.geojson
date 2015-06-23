@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.6018, 
+                    40.7548
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.587728, 
+                            40.719992
+                        ], 
+                        [
+                            -73.582104, 
+                            40.721812
+                        ], 
+                        [
+                            -73.580775, 
+                            40.719805
+                        ], 
+                        [
+                            -73.580663, 
+                            40.718187
+                        ], 
+                        [
+                            -73.586394, 
+                            40.718357999999995
+                        ], 
+                        [
+                            -73.587728, 
+                            40.719992
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Uniondale", 
+                "postal-code": "11556", 
+                "state": "NY", 
+                "county-code": "059"
+            }
+        }
+    ]
+}

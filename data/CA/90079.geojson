@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.2987, 
+                    33.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -118.256716, 
+                            34.040455
+                        ], 
+                        [
+                            -118.254943, 
+                            34.041599
+                        ], 
+                        [
+                            -118.25451699999999, 
+                            34.041122
+                        ], 
+                        [
+                            -118.254093, 
+                            34.040735999999995
+                        ], 
+                        [
+                            -118.255845, 
+                            34.039570999999995
+                        ], 
+                        [
+                            -118.256716, 
+                            34.040455
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Los Angeles", 
+                "postal-code": "90079", 
+                "state": "CA", 
+                "county-code": "037"
+            }
+        }
+    ]
+}

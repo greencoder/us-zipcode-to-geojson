@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.9269, 
+                    40.3482
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -106.829395, 
+                            40.488006
+                        ], 
+                        [
+                            -106.828049, 
+                            40.487998999999995
+                        ], 
+                        [
+                            -106.828708, 
+                            40.486958
+                        ], 
+                        [
+                            -106.827086, 
+                            40.486777
+                        ], 
+                        [
+                            -106.829044, 
+                            40.484826999999996
+                        ], 
+                        [
+                            -106.831349, 
+                            40.485524
+                        ], 
+                        [
+                            -106.829395, 
+                            40.488006
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Steamboat Springs", 
+                "postal-code": "80477", 
+                "state": "CO", 
+                "county-code": "107"
+            }
+        }
+    ]
+}

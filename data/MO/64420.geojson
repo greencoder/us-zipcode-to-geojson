@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -94.4233, 
+                    40.4781
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -94.295643, 
+                            40.490761
+                        ], 
+                        [
+                            -94.28157, 
+                            40.490798999999996
+                        ], 
+                        [
+                            -94.28150199999999, 
+                            40.479973
+                        ], 
+                        [
+                            -94.29180799999999, 
+                            40.47996
+                        ], 
+                        [
+                            -94.29612399999999, 
+                            40.479907999999995
+                        ], 
+                        [
+                            -94.295643, 
+                            40.490761
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Allendale", 
+                "postal-code": "64420", 
+                "state": "MO", 
+                "county-code": "227"
+            }
+        }
+    ]
+}

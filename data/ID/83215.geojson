@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -112.2979, 
+                    43.2448
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -112.813223, 
+                            43.446207
+                        ], 
+                        [
+                            -112.810183, 
+                            43.442719
+                        ], 
+                        [
+                            -112.808523, 
+                            43.443149
+                        ], 
+                        [
+                            -112.807921, 
+                            43.442018
+                        ], 
+                        [
+                            -112.812534, 
+                            43.440196
+                        ], 
+                        [
+                            -112.816251, 
+                            43.444789
+                        ], 
+                        [
+                            -112.813223, 
+                            43.446207
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Atomic City", 
+                "postal-code": "83215", 
+                "state": "ID", 
+                "county-code": "011"
+            }
+        }
+    ]
+}

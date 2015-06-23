@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.9157, 
+                    43.6394
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -87.91644699999999, 
+                            43.639965
+                        ], 
+                        [
+                            -87.914855, 
+                            43.639981
+                        ], 
+                        [
+                            -87.914807, 
+                            43.638313
+                        ], 
+                        [
+                            -87.91640699999999, 
+                            43.638306
+                        ], 
+                        [
+                            -87.91644699999999, 
+                            43.639965
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Hingham", 
+                "postal-code": "53031", 
+                "state": "WI", 
+                "county-code": "117"
+            }
+        }
+    ]
+}

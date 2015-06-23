@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.5186, 
+                    42.9803
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -75.526923, 
+                            42.986171999999996
+                        ], 
+                        [
+                            -75.52570399999999, 
+                            42.986176
+                        ], 
+                        [
+                            -75.517183, 
+                            42.986269
+                        ], 
+                        [
+                            -75.51699099999999, 
+                            42.978179
+                        ], 
+                        [
+                            -75.526924, 
+                            42.978176
+                        ], 
+                        [
+                            -75.526923, 
+                            42.986171999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Knoxboro", 
+                "postal-code": "13362", 
+                "state": "NY", 
+                "county-code": "065"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -85.9455, 
+                    40.2841
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -85.94851899999999, 
+                            40.285103
+                        ], 
+                        [
+                            -85.947406, 
+                            40.285069
+                        ], 
+                        [
+                            -85.94605, 
+                            40.284603
+                        ], 
+                        [
+                            -85.946001, 
+                            40.283412999999996
+                        ], 
+                        [
+                            -85.94851899999999, 
+                            40.283397
+                        ], 
+                        [
+                            -85.94851899999999, 
+                            40.285103
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Hobbs", 
+                "postal-code": "46047", 
+                "state": "IN", 
+                "county-code": "159"
+            }
+        }
+    ]
+}

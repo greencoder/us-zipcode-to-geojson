@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.4398, 
+                    40.3602
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -79.48464, 
+                            40.21452
+                        ], 
+                        [
+                            -79.48405, 
+                            40.21409
+                        ], 
+                        [
+                            -79.48170999999999, 
+                            40.214189999999995
+                        ], 
+                        [
+                            -79.48402, 
+                            40.21367
+                        ], 
+                        [
+                            -79.48411999999999, 
+                            40.212959999999995
+                        ], 
+                        [
+                            -79.48464, 
+                            40.21452
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Calumet", 
+                "postal-code": "15621", 
+                "state": "PA", 
+                "county-code": "129"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.5149, 
+                    38.2527
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -90.36549, 
+                            38.36797
+                        ], 
+                        [
+                            -90.36243999999999, 
+                            38.36761
+                        ], 
+                        [
+                            -90.36296, 
+                            38.36448
+                        ], 
+                        [
+                            -90.3639, 
+                            38.36528
+                        ], 
+                        [
+                            -90.36372, 
+                            38.3661
+                        ], 
+                        [
+                            -90.36580000000001, 
+                            38.36636
+                        ], 
+                        [
+                            -90.36549, 
+                            38.36797
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Kimmswick", 
+                "postal-code": "63053", 
+                "state": "MO", 
+                "county-code": "099"
+            }
+        }
+    ]
+}

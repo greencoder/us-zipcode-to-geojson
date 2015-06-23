@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.0914, 
+                    43.9715
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.108209, 
+                            43.972152
+                        ], 
+                        [
+                            -73.10318, 
+                            43.972913999999996
+                        ], 
+                        [
+                            -73.103206, 
+                            43.970061
+                        ], 
+                        [
+                            -73.104969, 
+                            43.971061999999996
+                        ], 
+                        [
+                            -73.10810099999999, 
+                            43.970693
+                        ], 
+                        [
+                            -73.108209, 
+                            43.972152
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "East Middlebury", 
+                "postal-code": "05740", 
+                "state": "VT", 
+                "county-code": "001"
+            }
+        }
+    ]
+}

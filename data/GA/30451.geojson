@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.0867, 
+                    32.4143
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -81.95649399999999, 
+                            32.391565
+                        ], 
+                        [
+                            -81.953756, 
+                            32.391903
+                        ], 
+                        [
+                            -81.94799499999999, 
+                            32.391416
+                        ], 
+                        [
+                            -81.948025, 
+                            32.389176
+                        ], 
+                        [
+                            -81.96154899999999, 
+                            32.390966
+                        ], 
+                        [
+                            -81.95649399999999, 
+                            32.391565
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Pulaski", 
+                "postal-code": "30451", 
+                "state": "GA", 
+                "county-code": "043"
+            }
+        }
+    ]
+}

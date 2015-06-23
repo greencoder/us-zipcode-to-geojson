@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.6388, 
+                    32.8393
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.64008, 
+                            32.840638999999996
+                        ], 
+                        [
+                            -83.638235, 
+                            32.840804999999996
+                        ], 
+                        [
+                            -83.63884499999999, 
+                            32.839335
+                        ], 
+                        [
+                            -83.63896199999999, 
+                            32.839177
+                        ], 
+                        [
+                            -83.6405, 
+                            32.839607
+                        ], 
+                        [
+                            -83.64008, 
+                            32.840638999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Macon", 
+                "postal-code": "31213", 
+                "state": "GA", 
+                "county-code": "021"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -72.848, 
+                    42.1734
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -72.79701299999999, 
+                            42.130815999999996
+                        ], 
+                        [
+                            -72.793286, 
+                            42.131158
+                        ], 
+                        [
+                            -72.790887, 
+                            42.131578
+                        ], 
+                        [
+                            -72.79261699999999, 
+                            42.128906
+                        ], 
+                        [
+                            -72.797331, 
+                            42.130342
+                        ], 
+                        [
+                            -72.79701299999999, 
+                            42.130815999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Westfield", 
+                "postal-code": "01086", 
+                "state": "MA", 
+                "county-code": "013"
+            }
+        }
+    ]
+}

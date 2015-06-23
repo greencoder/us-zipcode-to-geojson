@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -74.0754, 
+                    40.7323
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -74.033598, 
+                            40.721427999999996
+                        ], 
+                        [
+                            -74.031601, 
+                            40.721247
+                        ], 
+                        [
+                            -74.032819, 
+                            40.717423
+                        ], 
+                        [
+                            -74.029988, 
+                            40.716757
+                        ], 
+                        [
+                            -74.03219399999999, 
+                            40.71674
+                        ], 
+                        [
+                            -74.034266, 
+                            40.717327
+                        ], 
+                        [
+                            -74.033598, 
+                            40.721427999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Jersey City", 
+                "postal-code": "07311", 
+                "state": "NJ", 
+                "county-code": "017"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -96.2528, 
+                    43.6749
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -96.11344, 
+                            43.58724
+                        ], 
+                        [
+                            -96.09348, 
+                            43.587219999999995
+                        ], 
+                        [
+                            -96.09335, 
+                            43.572919999999996
+                        ], 
+                        [
+                            -96.11341999999999, 
+                            43.57288
+                        ], 
+                        [
+                            -96.11344, 
+                            43.58724
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Kanaranzi", 
+                "postal-code": "56146", 
+                "state": "MN", 
+                "county-code": "133"
+            }
+        }
+    ]
+}

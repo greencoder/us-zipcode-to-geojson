@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -82.875, 
+                    40.8686
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -82.879449, 
+                            40.869921999999995
+                        ], 
+                        [
+                            -82.877951, 
+                            40.870684999999995
+                        ], 
+                        [
+                            -82.873013, 
+                            40.871047999999995
+                        ], 
+                        [
+                            -82.873043, 
+                            40.869415
+                        ], 
+                        [
+                            -82.876617, 
+                            40.868902
+                        ], 
+                        [
+                            -82.879453, 
+                            40.868778
+                        ], 
+                        [
+                            -82.879449, 
+                            40.869921999999995
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Sulphur Springs", 
+                "postal-code": "44881", 
+                "state": "OH", 
+                "county-code": "033"
+            }
+        }
+    ]
+}

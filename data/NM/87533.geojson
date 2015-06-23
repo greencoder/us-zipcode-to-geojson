@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.0654, 
+                    35.9866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -106.068982, 
+                            36.023942
+                        ], 
+                        [
+                            -106.063632, 
+                            36.02486
+                        ], 
+                        [
+                            -106.063612, 
+                            36.023247999999995
+                        ], 
+                        [
+                            -106.062549, 
+                            36.023302
+                        ], 
+                        [
+                            -106.064013, 
+                            36.020129
+                        ], 
+                        [
+                            -106.063713, 
+                            36.023998999999996
+                        ], 
+                        [
+                            -106.068982, 
+                            36.023942
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Espanola", 
+                "postal-code": "87533", 
+                "state": "NM", 
+                "county-code": "039"
+            }
+        }
+    ]
+}

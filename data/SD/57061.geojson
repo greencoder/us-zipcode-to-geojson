@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -97.0182, 
+                    44.2428
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -97.049013, 
+                            44.246337
+                        ], 
+                        [
+                            -97.046692, 
+                            44.244532
+                        ], 
+                        [
+                            -97.04669299999999, 
+                            44.245539
+                        ], 
+                        [
+                            -97.039024, 
+                            44.245557
+                        ], 
+                        [
+                            -97.038963, 
+                            44.239213
+                        ], 
+                        [
+                            -97.048993, 
+                            44.239157
+                        ], 
+                        [
+                            -97.049013, 
+                            44.246337
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Sinai", 
+                "postal-code": "57061", 
+                "state": "SD", 
+                "county-code": "011"
+            }
+        }
+    ]
+}

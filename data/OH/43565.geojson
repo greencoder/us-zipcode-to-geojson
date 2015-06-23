@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.7479, 
+                    41.4231
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.742722, 
+                            41.42496
+                        ], 
+                        [
+                            -83.737771, 
+                            41.425053999999996
+                        ], 
+                        [
+                            -83.73747399999999, 
+                            41.422160999999996
+                        ], 
+                        [
+                            -83.737708, 
+                            41.414851999999996
+                        ], 
+                        [
+                            -83.74256299999999, 
+                            41.415092
+                        ], 
+                        [
+                            -83.742722, 
+                            41.42496
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Tontogany", 
+                "postal-code": "43565", 
+                "state": "OH", 
+                "county-code": "173"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -94.4357, 
+                    43.7353
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -94.438109, 
+                            43.737474
+                        ], 
+                        [
+                            -94.43670499999999, 
+                            43.738603999999995
+                        ], 
+                        [
+                            -94.435261, 
+                            43.738585
+                        ], 
+                        [
+                            -94.435255, 
+                            43.732865
+                        ], 
+                        [
+                            -94.436689, 
+                            43.731406
+                        ], 
+                        [
+                            -94.438085, 
+                            43.731398999999996
+                        ], 
+                        [
+                            -94.438109, 
+                            43.737474
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Northrop", 
+                "postal-code": "56075", 
+                "state": "MN", 
+                "county-code": "091"
+            }
+        }
+    ]
+}

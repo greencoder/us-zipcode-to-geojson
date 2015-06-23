@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.4204, 
+                    41.1112
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.421301, 
+                            41.11166
+                        ], 
+                        [
+                            -73.42058899999999, 
+                            41.111897
+                        ], 
+                        [
+                            -73.420222, 
+                            41.111194999999995
+                        ], 
+                        [
+                            -73.420712, 
+                            41.111073999999995
+                        ], 
+                        [
+                            -73.420598, 
+                            41.110535
+                        ], 
+                        [
+                            -73.421301, 
+                            41.11166
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Norwalk", 
+                "postal-code": "06856", 
+                "state": "CT", 
+                "county-code": "001"
+            }
+        }
+    ]
+}

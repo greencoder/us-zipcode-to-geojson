@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -99.7117, 
+                    32.4665
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -99.71712, 
+                            32.461697
+                        ], 
+                        [
+                            -99.718446, 
+                            32.463529
+                        ], 
+                        [
+                            -99.71650799999999, 
+                            32.465582999999995
+                        ], 
+                        [
+                            -99.713602, 
+                            32.464228
+                        ], 
+                        [
+                            -99.713647, 
+                            32.459849
+                        ], 
+                        [
+                            -99.72026699999999, 
+                            32.459956
+                        ], 
+                        [
+                            -99.71712, 
+                            32.461697
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Abilene", 
+                "postal-code": "79699", 
+                "state": "TX", 
+                "county-code": "441"
+            }
+        }
+    ]
+}

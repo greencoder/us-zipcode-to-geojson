@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -91.7314, 
+                    35.2474
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -91.727745, 
+                            35.249592
+                        ], 
+                        [
+                            -91.72466299999999, 
+                            35.249545999999995
+                        ], 
+                        [
+                            -91.72466999999999, 
+                            35.248604
+                        ], 
+                        [
+                            -91.72775999999999, 
+                            35.248633999999996
+                        ], 
+                        [
+                            -91.727745, 
+                            35.249592
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Searcy", 
+                "postal-code": "72149", 
+                "state": "AR", 
+                "county-code": "145"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -91.0892, 
+                    30.392
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -91.092395, 
+                            30.389279
+                        ], 
+                        [
+                            -91.09058499999999, 
+                            30.392084999999998
+                        ], 
+                        [
+                            -91.08814199999999, 
+                            30.392460999999997
+                        ], 
+                        [
+                            -91.089281, 
+                            30.391854
+                        ], 
+                        [
+                            -91.09164799999999, 
+                            30.388865
+                        ], 
+                        [
+                            -91.092395, 
+                            30.389279
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Baton Rouge", 
+                "postal-code": "70836", 
+                "state": "LA", 
+                "county-code": "033"
+            }
+        }
+    ]
+}

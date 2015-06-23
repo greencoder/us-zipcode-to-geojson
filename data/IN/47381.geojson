@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.8669, 
+                    40.3818
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -84.871382, 
+                            40.386435999999996
+                        ], 
+                        [
+                            -84.86232299999999, 
+                            40.386206
+                        ], 
+                        [
+                            -84.862352, 
+                            40.377173
+                        ], 
+                        [
+                            -84.87145, 
+                            40.377272
+                        ], 
+                        [
+                            -84.871382, 
+                            40.386435999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Salamonia", 
+                "postal-code": "47381", 
+                "state": "IN", 
+                "county-code": "075"
+            }
+        }
+    ]
+}

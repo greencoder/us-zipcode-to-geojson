@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -79.3297, 
+                    35.9488
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -79.318471, 
+                            35.946937
+                        ], 
+                        [
+                            -79.314368, 
+                            35.948147
+                        ], 
+                        [
+                            -79.315328, 
+                            35.944283
+                        ], 
+                        [
+                            -79.315192, 
+                            35.942569999999996
+                        ], 
+                        [
+                            -79.318465, 
+                            35.945264
+                        ], 
+                        [
+                            -79.32139099999999, 
+                            35.947379
+                        ], 
+                        [
+                            -79.318471, 
+                            35.946937
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Saxapahaw", 
+                "postal-code": "27340", 
+                "state": "NC", 
+                "county-code": "001"
+            }
+        }
+    ]
+}

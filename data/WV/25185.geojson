@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.0648, 
+                    38.0413
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -81.240697, 
+                            38.236052
+                        ], 
+                        [
+                            -81.2385, 
+                            38.237148999999995
+                        ], 
+                        [
+                            -81.236161, 
+                            38.236837
+                        ], 
+                        [
+                            -81.235148, 
+                            38.235564
+                        ], 
+                        [
+                            -81.236091, 
+                            38.233711
+                        ], 
+                        [
+                            -81.239678, 
+                            38.233508
+                        ], 
+                        [
+                            -81.240697, 
+                            38.236052
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Mount Olive", 
+                "postal-code": "25185", 
+                "state": "WV", 
+                "county-code": "019"
+            }
+        }
+    ]
+}

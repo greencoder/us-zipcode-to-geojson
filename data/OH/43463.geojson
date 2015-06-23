@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.5085, 
+                    41.5091
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.507841, 
+                            41.510002
+                        ], 
+                        [
+                            -83.50724699999999, 
+                            41.507878
+                        ], 
+                        [
+                            -83.507465, 
+                            41.507664999999996
+                        ], 
+                        [
+                            -83.509096, 
+                            41.508401
+                        ], 
+                        [
+                            -83.507841, 
+                            41.510002
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Stony Ridge", 
+                "postal-code": "43463", 
+                "state": "OH", 
+                "county-code": "173"
+            }
+        }
+    ]
+}

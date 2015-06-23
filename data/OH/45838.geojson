@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -84.485, 
+                    40.7355
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -84.479759, 
+                            40.746265
+                        ], 
+                        [
+                            -84.47543999999999, 
+                            40.746309
+                        ], 
+                        [
+                            -84.475417, 
+                            40.742013
+                        ], 
+                        [
+                            -84.475405, 
+                            40.737868
+                        ], 
+                        [
+                            -84.47996499999999, 
+                            40.737883
+                        ], 
+                        [
+                            -84.479759, 
+                            40.746265
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Elgin", 
+                "postal-code": "45838", 
+                "state": "OH", 
+                "county-code": "161"
+            }
+        }
+    ]
+}

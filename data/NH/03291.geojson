@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.1396, 
+                    43.1823
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -71.148438, 
+                            43.176333
+                        ], 
+                        [
+                            -71.139905, 
+                            43.18624
+                        ], 
+                        [
+                            -71.138859, 
+                            43.183775
+                        ], 
+                        [
+                            -71.140699, 
+                            43.179590999999995
+                        ], 
+                        [
+                            -71.140407, 
+                            43.173624
+                        ], 
+                        [
+                            -71.144392, 
+                            43.175509999999996
+                        ], 
+                        [
+                            -71.148438, 
+                            43.176333
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "West Nottingham", 
+                "postal-code": "03291", 
+                "state": "NH", 
+                "county-code": "015"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.2987, 
+                    33.7866
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -118.241705, 
+                            34.212512
+                        ], 
+                        [
+                            -118.239986, 
+                            34.21145
+                        ], 
+                        [
+                            -118.23997800000001, 
+                            34.210339
+                        ], 
+                        [
+                            -118.240325, 
+                            34.210417
+                        ], 
+                        [
+                            -118.24242, 
+                            34.211737
+                        ], 
+                        [
+                            -118.241705, 
+                            34.212512
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Verdugo City", 
+                "postal-code": "91046", 
+                "state": "CA", 
+                "county-code": "037"
+            }
+        }
+    ]
+}

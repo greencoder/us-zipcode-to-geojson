@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.0419, 
+                    40.4916
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -90.039373, 
+                            40.495188
+                        ], 
+                        [
+                            -90.036188, 
+                            40.494727
+                        ], 
+                        [
+                            -90.029701, 
+                            40.494178999999995
+                        ], 
+                        [
+                            -90.029811, 
+                            40.487916
+                        ], 
+                        [
+                            -90.039446, 
+                            40.487877999999995
+                        ], 
+                        [
+                            -90.039373, 
+                            40.495188
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Dunfermline", 
+                "postal-code": "61524", 
+                "state": "IL", 
+                "county-code": "057"
+            }
+        }
+    ]
+}

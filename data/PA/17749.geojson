@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.8184, 
+                    41.072
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -76.819051, 
+                            41.077071
+                        ], 
+                        [
+                            -76.81652, 
+                            41.076263999999995
+                        ], 
+                        [
+                            -76.816319, 
+                            41.074321999999995
+                        ], 
+                        [
+                            -76.818203, 
+                            41.068401
+                        ], 
+                        [
+                            -76.821963, 
+                            41.068163
+                        ], 
+                        [
+                            -76.819051, 
+                            41.077071
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Mc Ewensville", 
+                "postal-code": "17749", 
+                "state": "PA", 
+                "county-code": "097"
+            }
+        }
+    ]
+}

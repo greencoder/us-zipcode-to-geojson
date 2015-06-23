@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.661, 
+                    32.3906
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -80.719611, 
+                            32.459736
+                        ], 
+                        [
+                            -80.716207, 
+                            32.459728
+                        ], 
+                        [
+                            -80.71619299999999, 
+                            32.455841
+                        ], 
+                        [
+                            -80.71626499999999, 
+                            32.455182
+                        ], 
+                        [
+                            -80.719597, 
+                            32.45511
+                        ], 
+                        [
+                            -80.719593, 
+                            32.456491
+                        ], 
+                        [
+                            -80.719611, 
+                            32.459736
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Beaufort", 
+                "postal-code": "29904", 
+                "state": "SC", 
+                "county-code": "013"
+            }
+        }
+    ]
+}

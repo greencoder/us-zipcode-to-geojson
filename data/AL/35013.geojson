@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.4493, 
+                    33.9222
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -86.519245, 
+                            33.902353999999995
+                        ], 
+                        [
+                            -86.517876, 
+                            33.903673
+                        ], 
+                        [
+                            -86.516311, 
+                            33.902166
+                        ], 
+                        [
+                            -86.516773, 
+                            33.900894
+                        ], 
+                        [
+                            -86.516646, 
+                            33.900188
+                        ], 
+                        [
+                            -86.51928199999999, 
+                            33.900214
+                        ], 
+                        [
+                            -86.519245, 
+                            33.902353999999995
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Allgood", 
+                "postal-code": "35013", 
+                "state": "AL", 
+                "county-code": "009"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.3921, 
+                    39.47
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -77.411564, 
+                            39.40962
+                        ], 
+                        [
+                            -77.408282, 
+                            39.409962
+                        ], 
+                        [
+                            -77.408596, 
+                            39.407939
+                        ], 
+                        [
+                            -77.41020999999999, 
+                            39.407852999999996
+                        ], 
+                        [
+                            -77.41178699999999, 
+                            39.407756
+                        ], 
+                        [
+                            -77.411564, 
+                            39.40962
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Frederick", 
+                "postal-code": "21705", 
+                "state": "MD", 
+                "county-code": "021"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -91.2317, 
+                    39.0776
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -91.24264, 
+                            39.096973999999996
+                        ], 
+                        [
+                            -91.237903, 
+                            39.097012
+                        ], 
+                        [
+                            -91.238365, 
+                            39.084036999999995
+                        ], 
+                        [
+                            -91.24168499999999, 
+                            39.084027
+                        ], 
+                        [
+                            -91.243157, 
+                            39.080625999999995
+                        ], 
+                        [
+                            -91.24264, 
+                            39.096973999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Olney", 
+                "postal-code": "63370", 
+                "state": "MO", 
+                "county-code": "113"
+            }
+        }
+    ]
+}

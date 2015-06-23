@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -81.7197, 
+                    40.2087
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -81.725353, 
+                            40.211287
+                        ], 
+                        [
+                            -81.724993, 
+                            40.210887
+                        ], 
+                        [
+                            -81.71443699999999, 
+                            40.210515
+                        ], 
+                        [
+                            -81.713633, 
+                            40.206815
+                        ], 
+                        [
+                            -81.72514799999999, 
+                            40.206886999999995
+                        ], 
+                        [
+                            -81.725353, 
+                            40.211287
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Plainfield", 
+                "postal-code": "43836", 
+                "state": "OH", 
+                "county-code": "031"
+            }
+        }
+    ]
+}

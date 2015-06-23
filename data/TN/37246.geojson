@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.79, 
+                    36.1586
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -86.791758, 
+                            36.161606
+                        ], 
+                        [
+                            -86.789513, 
+                            36.158968
+                        ], 
+                        [
+                            -86.79090099999999, 
+                            36.15827
+                        ], 
+                        [
+                            -86.791186, 
+                            36.158131999999995
+                        ], 
+                        [
+                            -86.793219, 
+                            36.160965
+                        ], 
+                        [
+                            -86.791758, 
+                            36.161606
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Nashville", 
+                "postal-code": "37246", 
+                "state": "TN", 
+                "county-code": "037"
+            }
+        }
+    ]
+}

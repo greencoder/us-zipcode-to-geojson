@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.9715, 
+                    35.2017
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -89.823275, 
+                            35.241507
+                        ], 
+                        [
+                            -89.821473, 
+                            35.239289
+                        ], 
+                        [
+                            -89.81904899999999, 
+                            35.239163999999995
+                        ], 
+                        [
+                            -89.81915599999999, 
+                            35.236537
+                        ], 
+                        [
+                            -89.825053, 
+                            35.238575
+                        ], 
+                        [
+                            -89.823275, 
+                            35.241507
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Ellendale", 
+                "postal-code": "38029", 
+                "state": "TN", 
+                "county-code": "157"
+            }
+        }
+    ]
+}

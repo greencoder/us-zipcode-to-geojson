@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.9633, 
+                    44.882
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -73.84944899999999, 
+                            44.890606999999996
+                        ], 
+                        [
+                            -73.845742, 
+                            44.892046
+                        ], 
+                        [
+                            -73.84164799999999, 
+                            44.891065999999995
+                        ], 
+                        [
+                            -73.846141, 
+                            44.890266
+                        ], 
+                        [
+                            -73.84939899999999, 
+                            44.889928
+                        ], 
+                        [
+                            -73.84944899999999, 
+                            44.890606999999996
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Ellenburg", 
+                "postal-code": "12933", 
+                "state": "NY", 
+                "county-code": "019"
+            }
+        }
+    ]
+}

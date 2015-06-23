@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -106.4614, 
+                    31.8214
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -106.452754, 
+                            31.824500999999998
+                        ], 
+                        [
+                            -106.451072, 
+                            31.825664
+                        ], 
+                        [
+                            -106.451079, 
+                            31.825385999999998
+                        ], 
+                        [
+                            -106.450723, 
+                            31.824918
+                        ], 
+                        [
+                            -106.452377, 
+                            31.823987
+                        ], 
+                        [
+                            -106.452754, 
+                            31.824500999999998
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "El Paso", 
+                "postal-code": "79920", 
+                "state": "TX", 
+                "county-code": "141"
+            }
+        }
+    ]
+}

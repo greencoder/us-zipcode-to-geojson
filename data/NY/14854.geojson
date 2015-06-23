@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.6082, 
+                    42.5063
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -76.615567, 
+                            42.506974
+                        ], 
+                        [
+                            -76.614919, 
+                            42.508548999999995
+                        ], 
+                        [
+                            -76.612923, 
+                            42.50702
+                        ], 
+                        [
+                            -76.614628, 
+                            42.506589999999996
+                        ], 
+                        [
+                            -76.61438299999999, 
+                            42.502762
+                        ], 
+                        [
+                            -76.615364, 
+                            42.502739
+                        ], 
+                        [
+                            -76.615567, 
+                            42.506974
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Jacksonville", 
+                "postal-code": "14854", 
+                "state": "NY", 
+                "county-code": "109"
+            }
+        }
+    ]
+}

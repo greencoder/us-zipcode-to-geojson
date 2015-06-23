@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.1995, 
+                    39.773
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.207397, 
+                            39.768674
+                        ], 
+                        [
+                            -83.20611699999999, 
+                            39.770674
+                        ], 
+                        [
+                            -83.205051, 
+                            39.770143
+                        ], 
+                        [
+                            -83.20643, 
+                            39.769531
+                        ], 
+                        [
+                            -83.204697, 
+                            39.768024
+                        ], 
+                        [
+                            -83.206397, 
+                            39.766714
+                        ], 
+                        [
+                            -83.207397, 
+                            39.768674
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Derby", 
+                "postal-code": "43117", 
+                "state": "OH", 
+                "county-code": "129"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.8296, 
+                    41.3009
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.834368, 
+                            41.306194
+                        ], 
+                        [
+                            -83.825717, 
+                            41.306287999999995
+                        ], 
+                        [
+                            -83.82469499999999, 
+                            41.307612
+                        ], 
+                        [
+                            -83.824704, 
+                            41.299003
+                        ], 
+                        [
+                            -83.824651, 
+                            41.295252999999995
+                        ], 
+                        [
+                            -83.83438799999999, 
+                            41.295161
+                        ], 
+                        [
+                            -83.834368, 
+                            41.306194
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Milton Center", 
+                "postal-code": "43541", 
+                "state": "OH", 
+                "county-code": "173"
+            }
+        }
+    ]
+}

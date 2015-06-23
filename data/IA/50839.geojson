@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -94.8231, 
+                    41.0487
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -94.832951, 
+                            41.055194
+                        ], 
+                        [
+                            -94.823194, 
+                            41.055119
+                        ], 
+                        [
+                            -94.81498099999999, 
+                            41.05506
+                        ], 
+                        [
+                            -94.814949, 
+                            41.044216999999996
+                        ], 
+                        [
+                            -94.832923, 
+                            41.044171999999996
+                        ], 
+                        [
+                            -94.832951, 
+                            41.055194
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Carbon", 
+                "postal-code": "50839", 
+                "state": "IA", 
+                "county-code": "003"
+            }
+        }
+    ]
+}

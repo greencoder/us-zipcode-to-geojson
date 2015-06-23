@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.2538, 
+                    33.8671
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -118.252318, 
+                            33.863344
+                        ], 
+                        [
+                            -118.250491, 
+                            33.863338999999996
+                        ], 
+                        [
+                            -118.250167, 
+                            33.862736999999996
+                        ], 
+                        [
+                            -118.250402, 
+                            33.862539999999996
+                        ], 
+                        [
+                            -118.252346, 
+                            33.862618
+                        ], 
+                        [
+                            -118.252318, 
+                            33.863344
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Carson", 
+                "postal-code": "90747", 
+                "state": "CA", 
+                "county-code": "037"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.5873, 
+                    39.5937
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {}
+        }, 
+        {
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -83.590001, 
+                            39.596773
+                        ], 
+                        [
+                            -83.588141, 
+                            39.596621999999996
+                        ], 
+                        [
+                            -83.585388, 
+                            39.596455
+                        ], 
+                        [
+                            -83.585706, 
+                            39.59015
+                        ], 
+                        [
+                            -83.587841, 
+                            39.590095
+                        ], 
+                        [
+                            -83.588533, 
+                            39.593821999999996
+                        ], 
+                        [
+                            -83.590001, 
+                            39.596773
+                        ]
+                    ]
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Milledgeville", 
+                "postal-code": "43142", 
+                "state": "OH", 
+                "county-code": "047"
+            }
+        }
+    ]
+}
